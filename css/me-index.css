@@ -1,11 +1,10 @@
 ﻿
 .section-bg {
     height: 200px;
-    background: url("images/me-bg.jpg") no-repeat center center;
+    background: url("../images/me-bg.jpg") no-repeat center center;
     -ms-background-size: 100% 100%;
     background-size: 100% 100%;
     position: relative;
-    margin-bottom: 15px;
     padding-top: 20px;
 }
 .section-bg a.user-wrap {
@@ -72,13 +71,13 @@
     margin-left: 5px;
 }
 .icon-message {
-    background-image: url("images/me-message.png");
+    background-image: url("../images/me-message.png");
 }
 .icon-balance {
-    background-image: url("images/me-balance.png");
+    background-image: url("../images/me-balance.png");
 }
 .icon-gold {
-    background-image: url("images/me-gold.png");
+    background-image: url("../images/me-gold.png");
 }
 
 .section-user {
@@ -91,7 +90,7 @@
     overflow: hidden;
     padding: 10px 12px;
     padding-right: 15px;
-    background: url("../images/arrow-right.png") right center no-repeat;
+    background: url("../../images/arrow-right.png") right center no-repeat;
     -ms-background-size: 16px auto;
     background-size: 16px auto;
 }
@@ -126,33 +125,37 @@ ul.list-links > li > a {
     background-size: 16px auto;
 }
 #linkTemplateExpense > a {
-    background-image: url("images/me-template-expense.png");
+    background-image: url("../images/me-template-expense.png");
 }
 #linkTemplateIncome > a {
-    background-image: url("images/me-template-income.png");
+    background-image: url("../images/me-template-income.png");
 }
 #linkFalimy > a {
-    background-image: url("images/me-family.png");
+    background-image: url("../images/me-family.png");
 }
 
 #linkBindPhone > a {
-    background-image: url("images/me-phone.png");
+    background-image: url("../images/me-phone.png");
 }
 #linkBindWeixin > a {
-    background-image: url("images/me-weixin.png");
+    background-image: url("../images/me-weixin.png");
 }
 #linkBindQq > a {
-    background-image: url("images/me-qq.png");
+    background-image: url("../images/me-qq.png");
 }
 #linkAbout > a {
-    background-image: url("images/me-book.png");
+    background-image: url("../images/me-book.png");
 }
 #linkFeedback > a {
-    background-image: url("images/me-feedback.png");
+    background-image: url("../images/me-feedback.png");
 }
 #linkPassword > a {
-    background-image: url("images/me-password.png");
+    background-image: url("../images/me-password.png");
 }
 #linkLogout > a {
-    background-image: url("images/me-logout.png");
+    background-image: url("../images/me-logout.png");
 }
+
+
+.navpre{height:40px; text-align:center; line-height:40px; font-weight:bold; color:#f25336;background-position:40px 11px;
+background-repeat: no-repeat;background-size: 16px auto;}

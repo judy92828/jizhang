@@ -3,7 +3,6 @@
     color: #333333;
     font-size: 11pt;
     font-family: "微软雅黑";
-    background-color: #ebebeb;
 }
 .page {
     padding-top: 50px;
@@ -44,7 +43,7 @@
         right: inherit;
     }
     .header .btn-back {
-        background: url("images/header-back.png") center center no-repeat;
+        background: url("../images/header-back.png") center center no-repeat;
         -ms-background-size: 25px auto;
         background-size: 25px auto;
         width: 50px;
@@ -95,22 +94,22 @@
         color: #00c191;
     }
     .footer #footerHome a{
-        background-image: url("images/nav-home.png");
+        background-image: url("../images/nav-home.png");
     }
     .footer #footerMe a{
-        background-image: url("images/nav-me.png");
+        background-image: url("../images/nav-me.png");
     }
     .footer #footerDiscover a{
-        background-image: url("images/nav-discover.png");
+        background-image: url("../images/nav-discover.png");
     }
     .footer #footerHome.selected a{
-        background-image: url("images/nav-home-selected.png");
+        background-image: url("../images/nav-home-selected.png");
     }
     .footer #footerMe.selected a{
-        background-image: url("images/nav-me-selected.png");
+        background-image: url("../images/nav-me-selected.png");
     }
     .footer #footerDiscover.selected a{
-        background-image: url("images/nav-discover-selected.png");
+        background-image: url("../images/nav-discover-selected.png");
     }
 
 #body.weixin .page {
@@ -278,7 +277,7 @@ div.warning {
     color: #ff9900;
     -ms-border-radius: 5px;
     border-radius: 5px;
-    background: url("images/warning.png") 6px 15px no-repeat;
+    background: url("../images/warning.png") 6px 15px no-repeat;
     background-color: #ffffcc;
     -ms-background-size: 20px auto;
     background-size: 20px auto;
@@ -409,7 +408,7 @@ ul.list-links {
         padding-right: 24px;
         cursor: pointer;
         position: relative;
-        background-image: url("images/arrow-right.png");
+        background-image: url("../images/arrow-right.png");
         background-position: right center;
         background-repeat: no-repeat;
         -ms-background-size: 18px auto;
@@ -475,7 +474,7 @@ dl {
     height: 20px;
     display: inline-block;
     vertical-align: middle;
-    background: url("images/icon-check.png") center center no-repeat;
+    background: url("../images/icon-check.png") center center no-repeat;
     -ms-background-size: 20px auto;
     background-size: 20px auto;
 }
@@ -496,25 +495,25 @@ dl {
 
     .like-read a.read {
         float: left;
-        background-image: url("images/icon-eye.png");
+        background-image: url("../images/icon-eye.png");
     }
     .like-read a.like {
         float: right;
-        background-image: url("images/icon-thumb-gray.png");
+        background-image: url("../images/icon-thumb-gray.png");
     }
     .like-read a.liked {
-        background-image: url("images/icon-thumb-light.png");
+        background-image: url("../images/icon-thumb-light.png");
     }
 a.like-read {
     display: inline-block;
     padding-left: 26px;
-    background: url("images/icon-thumb-gray.png") left center no-repeat;
+    background: url("../images/icon-thumb-gray.png") left center no-repeat;
     -ms-background-size: 20px auto;
     background-size: 20px auto;
     vertical-align: bottom;
 }
     a.like-read.liked {
-        background-image: url("images/icon-thumb-light.png");
+        background-image: url("../images/icon-thumb-light.png");
     }
 
 
@@ -555,7 +554,7 @@ a.like-read {
     margin-bottom: 4px;
     padding: 0 3px;
     padding-left: 12px;
-    background-image: url("images/icon-genders.png");
+    background-image: url("../images/icon-genders.png");
     background-repeat: no-repeat;
     -ms-background-size: 8px auto;
     background-size: 8px auto;
@@ -634,7 +633,7 @@ ul.files-uploader {
         right: -10px;
         display: block;
         cursor: pointer;
-        background: url("images/icon-remove.png") center center no-repeat;
+        background: url("../images/icon-remove.png") center center no-repeat;
         -ms-background-size: 21px auto;
         background-size: 21px auto;
     }
@@ -655,7 +654,7 @@ ul.files-uploader {
         left: 0px;
         width: 100%;
         height: 100%;
-        background: url("images/loading.gif") center center no-repeat;
+        background: url("../images/loading.gif") center center no-repeat;
         -ms-background-size: 20px auto;
         background-size: 20px auto;
         background-color: #666666;
@@ -698,7 +697,7 @@ ul.files-uploader {
     z-index: 999;
     width: 100%;
     height: 100%;
-    background: url("images/up.png") right top no-repeat;
+    background: url("../images/up.png") right top no-repeat;
     -ms-background-size: 30px auto;
     background-size: 30px auto;
     background-color: #888;
