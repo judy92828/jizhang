@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="content-type" content="text/html;charset=utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,user-scalable=no,minimal-ui" />
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black" />
+<title>分类</title>
+<link href="css/core.css" rel="stylesheet" />
+<link href="css/pc.css" rel="stylesheet" media="screen and (min-width:700px)"/>
+<link href="css/me-index.css" rel="stylesheet" />
+<script src="js/jquery-1.7.2.min.js"></script>
+<link rel="stylesheet" href="css/weui.css"/>
+<link rel="stylesheet" href="css/weui2.css"/>
+<script src="js/zepto.min.js"></script>
+<style type="text/css">
+.weui_media_box.weui_media_appmsg {
+	border-bottom: 1px solid #E5E5E5;
+}
+.price {
+	float: right;
+	color: #F00;
+	font-weight: bold;
+}
+.footer #footerMe a {
+	background-image: url("../images/sy.png");
+}
+</style>
+</head>
+<body ontouchstart>
+<div id="body" class="weixin">
+  <div class="page has-footer">
+    <div class="header"> 我的 </div>
+    <div class="content">
+      <div class="section-bg"> <a class="user-wrap" href="/app/profile"> <img /> </a>
+        <div class="user-name" id="lblNickname"></div>
+        <div class="section-numbers">
+          <ul>
+            <li id="linkMessage"><a href="/app/message"><span class="icon-message"></span>
+              <label>--</label>
+              </a></li>
+            <li id="linkTransaction"><a href="/app/transaction"><span class="icon-balance"></span>
+              <label>--</label>
+              </a></li>
+            <li id="linkGold"><a href="/app/gold"><span class="icon-gold"></span>
+              <label>--</label>
+              </a></li>
+          </ul>
+        </div>
+      </div>
+      <div class="row no-gutter">
+        <div class="col-100 ui-border navpre">添加分类</div>
+      </div>
+      <div class="weui_cell">
+        <div class="weui_cell_bd weui_cell_primary">
+          <p>汽车加油</p>
+        </div>
+        <div class="weui_cell_ft">修改 | 删除</div>
+      </div>
+      <div class="weui_cell">
+        <div class="weui_cell_bd weui_cell_primary">
+          <p>汽车加油</p>
+        </div>
+        <div class="weui_cell_ft">修改 | 删除</div>
+      </div>
+      <div class="weui_cell">
+        <div class="weui_cell_bd weui_cell_primary">
+          <p>汽车加油</p>
+        </div>
+        <div class="weui_cell_ft">修改 | 删除</div>
+      </div>
+      <div class="weui_cell">
+        <div class="weui_cell_bd weui_cell_primary">
+          <p>汽车加油</p>
+        </div>
+        <div class="weui_cell_ft">修改 | 删除</div>
+      </div>
+    </div>
+    <div class="footer">
+      <ul class="nav">
+        <li id="footerHome" class=""> <a href="/app">账本分类</a> </li>
+        <li id="footerDiscover" class=""> <a href="/app/discover">支出账本</a> </li>
+        <li id="footerMe" class=""> <a href="/app/me">收入账本</a> </li>
+        <!-- class="selected"-->
+      </ul>
+    </div>
+  </div>
+</div>
+<script src="js/example.js"></script>
+</body>
+</html>
