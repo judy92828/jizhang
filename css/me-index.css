@@ -159,3 +159,4 @@ ul.list-links > li > a {
 
 .navpre{height:60px; text-align:center; line-height:60px; font-weight:bold; color:#f25336;background-position:28px 23px;
 background-repeat: no-repeat;background-size: 16px auto; font-size:19px;}
+.price{ float:right; color:#F00; font-weight:bold;}
