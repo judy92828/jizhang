@@ -1,0 +1,88 @@
+<extend name="common" />
+<block name="nav">
+    <div class="row no-gutter">
+        <div class="col-100 ui-border navpre cate">添加分类</div>
+    </div>
+</block>
+<block name="body">
+    <div class="weui_cell weui_vcode" id="category" style="display:none;">
+
+        <div class="weui_cell_ft submit"> <img src="/Public/index/images/sub.png"> </div>
+    </div>
+    <div class="weui_cell">
+        <div class="weui_cell_hd"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAC4AAAAuCAMAAABgZ9sFAAAAVFBMVEXx8fHMzMzr6+vn5+fv7+/t7e3d3d2+vr7W1tbHx8eysrKdnZ3p6enk5OTR0dG7u7u3t7ejo6PY2Njh4eHf39/T09PExMSvr6+goKCqqqqnp6e4uLgcLY/OAAAAnklEQVRIx+3RSRLDIAxE0QYhAbGZPNu5/z0zrXHiqiz5W72FqhqtVuuXAl3iOV7iPV/iSsAqZa9BS7YOmMXnNNX4TWGxRMn3R6SxRNgy0bzXOW8EBO8SAClsPdB3psqlvG+Lw7ONXg/pTld52BjgSSkA3PV2OOemjIDcZQWgVvONw60q7sIpR38EnHPSMDQ4MjDjLPozhAkGrVbr/z0ANjAF4AcbXmYAAAAASUVORK5CYII=" alt="" style="width:20px;margin-right:5px;display:block"></div>
+        <div class="weui_cell_bd weui_cell_primary">
+            <p>餐饮</p>
+        </div>
+        <div class="weui_cell_ft">修改 | 删除</div>
+    </div>
+    <div class="weui_cell">
+        <div class="weui_cell_hd"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAC4AAAAuCAMAAABgZ9sFAAAAVFBMVEXx8fHMzMzr6+vn5+fv7+/t7e3d3d2+vr7W1tbHx8eysrKdnZ3p6enk5OTR0dG7u7u3t7ejo6PY2Njh4eHf39/T09PExMSvr6+goKCqqqqnp6e4uLgcLY/OAAAAnklEQVRIx+3RSRLDIAxE0QYhAbGZPNu5/z0zrXHiqiz5W72FqhqtVuuXAl3iOV7iPV/iSsAqZa9BS7YOmMXnNNX4TWGxRMn3R6SxRNgy0bzXOW8EBO8SAClsPdB3psqlvG+Lw7ONXg/pTld52BjgSSkA3PV2OOemjIDcZQWgVvONw60q7sIpR38EnHPSMDQ4MjDjLPozhAkGrVbr/z0ANjAF4AcbXmYAAAAASUVORK5CYII=" alt="" style="width:20px;margin-right:5px;display:block"></div>
+        <div class="weui_cell_bd weui_cell_primary">
+            <p>餐饮</p>
+        </div>
+        <div class="weui_cell_ft">修改 | 删除</div>
+    </div>
+    <div class="weui_cell">
+        <div class="weui_cell_hd"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAC4AAAAuCAMAAABgZ9sFAAAAVFBMVEXx8fHMzMzr6+vn5+fv7+/t7e3d3d2+vr7W1tbHx8eysrKdnZ3p6enk5OTR0dG7u7u3t7ejo6PY2Njh4eHf39/T09PExMSvr6+goKCqqqqnp6e4uLgcLY/OAAAAnklEQVRIx+3RSRLDIAxE0QYhAbGZPNu5/z0zrXHiqiz5W72FqhqtVuuXAl3iOV7iPV/iSsAqZa9BS7YOmMXnNNX4TWGxRMn3R6SxRNgy0bzXOW8EBO8SAClsPdB3psqlvG+Lw7ONXg/pTld52BjgSSkA3PV2OOemjIDcZQWgVvONw60q7sIpR38EnHPSMDQ4MjDjLPozhAkGrVbr/z0ANjAF4AcbXmYAAAAASUVORK5CYII=" alt="" style="width:20px;margin-right:5px;display:block"></div>
+        <div class="weui_cell_bd weui_cell_primary">
+            <p>餐饮</p>
+        </div>
+        <div class="weui_cell_ft">修改 | 删除</div>
+    </div>
+    <div class="dialog" id='dialog' style="display:none; display: block;">
+        <div class="d-box">
+            <div onclick="$('#dialog').hide();" class="d-close">X</div>
+            <div class="weui_cell_bd weui_cell_primary" style="height:auto; display: block; overflow: hidden; background-color: #fff;">
+                <div>
+                    <input class="weui_input" name="category" type="text" placeholder="请输入分类名称" style="width: 80%; margin-top: 20px; border: 1px solid #ccc;height: 40px;">
+                    <div class="weui_btn_area">
+                        <a class="weui_btn weui_btn_primary" href="javascript:" id="showTooltips">确定</a>
+                    </div>
+                    <br/>
+                </div>
+            </div>
+        </div>
+    </div>
+</block>
+<block name="js">
+    <script type="text/javascript">
+        $(function() {
+            $('.cate').click(function () {
+//                $('#category').toggle();
+                $('#dialog').show();
+            })
+            $('.submit').click(function () {
+                layer.load();
+                var cate = $("input[name=category]").val();
+                if (cate == null || cate == undefined || cate == '') {
+                    layer.msg('分类名不能为空！')
+                } else {
+                    $.post("{:U('Index/category')}",
+                    {
+                        category:$("input[name=category]").val()
+                    },
+                    function(data,status){
+                        if(data==1){
+                            layer.closeAll('loading');
+                            layer.msg('添加成功');
+                            setTimeout(function(){
+                                window.location.reload();
+                            },1200)
+                        }else if(data==0){
+                            layer.msg('添加失败');
+                            layer.closeAll('loading');
+
+                        }else if(data==2){
+                            layer.msg('该分类存在');
+                            layer.closeAll('loading');
+                        }
+                    });
+                }
+            })
+        });
+    </script>
+    <style type="text/css">
+        .weui_cell{border-bottom: 1px solid #ccc;}
+    </style>
+</block>

@@ -1,0 +1,107 @@
+
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta http-equiv="content-type" content="text/html;charset=utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1,user-scalable=no,minimal-ui" />
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black" />
+
+    <title>记收入 2016-07-07</title>
+    <link href="http://www.jizhang365.com/Areas/App/css/core.css?v=0903-2" rel="stylesheet" />
+    <link href="http://www.jizhang365.com/Areas/App/css/pc.css?v=150211" rel="stylesheet" media="screen and (min-width:700px)"/>
+    <script src="http://www.jizhang365.com/_storage/js/jquery/jquery-1.7.2.min.js"></script>
+    <script src="http://www.jizhang365.com/Areas/App/js/core.js"></script>
+</head>
+<body>
+    <div id="body" class="weixin">
+        
+<script src="http://res.wx.qq.com/open/js/jweixin-1.0.0.js"></script>
+<script src="http://www.jizhang365.com/Areas/App/js/data/editor.js?v=20160217"></script>
+<link href="http://www.jizhang365.com/Areas/App/css/pages/data-editor.css?v=20160217" rel="stylesheet" />
+<input type="hidden" id="hfIsExpense" value="False" />
+<div class="page has-footer">
+    <div class="header">
+        <a href="javascript:history.go(-1);" class="btn-back"></a>
+        记收入 2016-07-07
+    </div>
+    <div class="content">
+        <a class="nohistory" id="linkToTheOther" href="/app/expense/editor?date=2016-07-07">
+            当日消费： 0 元
+        </a>
+        <form id="formEditor" method="POST" class="cols2">
+            <input type="hidden" id="hfItemId" name="id" value="00000000-0000-0000-0000-000000000000"/>
+            <input type="hidden"  name="date" value="2016-07-07" />
+
+                <div class="formfield">
+                    <label>工资：</label>
+                    <div class="field">
+                        <input type="text" class="txt txt-field" name="field01" value="0" />
+                    </div>
+                </div>
+                <div class="formfield">
+                    <label>奖金：</label>
+                    <div class="field">
+                        <input type="text" class="txt txt-field" name="field02" value="0" />
+                    </div>
+                </div>
+                <div class="formfield">
+                    <label>外快：</label>
+                    <div class="field">
+                        <input type="text" class="txt txt-field" name="field03" value="0" />
+                    </div>
+                </div>
+                <div class="formfield">
+                    <label>补贴：</label>
+                    <div class="field">
+                        <input type="text" class="txt txt-field" name="field04" value="0" />
+                    </div>
+                </div>
+                <div class="formfield">
+                    <label>收礼：</label>
+                    <div class="field">
+                        <input type="text" class="txt txt-field" name="field05" value="0" />
+                    </div>
+                </div>
+                <div class="formfield">
+                    <label>打牌：</label>
+                    <div class="field">
+                        <input type="text" class="txt txt-field" name="field06" value="0" />
+                    </div>
+                </div>
+                <div class="formfield">
+                    <label>投资收益：</label>
+                    <div class="field">
+                        <input type="text" class="txt txt-field" name="field07" value="0" />
+                    </div>
+                </div>
+                <div class="formfield">
+                    <label>其他：</label>
+                    <div class="field">
+                        <input type="text" class="txt txt-field" name="field08" value="0" />
+                    </div>
+                </div>
+            <div class="line-notes">
+                <textarea id='txtNotes' name="notes" placeholder="当日备注，和消费记录共用，可以不填"></textarea>
+            </div>
+            <div class="line-images">
+                <div id="imgUploader"></div>
+            </div>
+            <div class="line-tip">
+                    * 收入模板最多支持12项，<a href="/app/template/income">管理收入模板</a>
+            </div>
+        </form>
+    </div>
+    <div class="footer">
+        <a id="btnSubmit" href="javascript:;">保存</a>
+        <div class="left">
+            总额：<label id="lblTotal">0</label> 元
+        </div>
+    </div>
+</div>
+
+    </div>
+</body>
+</html>

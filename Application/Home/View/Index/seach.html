@@ -1,0 +1,80 @@
+<extend name="common" />
+<block name="js">
+    <link href="/Public/index/css/common.css" rel="stylesheet" type="text/css" />
+    <script type="text/javascript" src="/Public/index/js/date.js" ></script>
+    <script type="text/javascript" src="/Public/index/js/iscroll.js" ></script>
+    <script type="text/javascript">
+        $(function(){
+            $('#beginTime').date();
+            $('#endTime').date();
+        });
+    </script>
+    <style type="text/css">
+        .weui_cell {
+            border-bottom: 1px solid #E5E5E5;
+        }
+        .price {
+            float: right;
+            color: #F00;
+            font-weight: bold;
+        }
+        .footer #footerMe a {
+            background-image: url("/Public/index/images/sy.png");
+        }
+    </style>
+</block>
+<block name="nav">
+    <div class="row no-gutter">
+        <div class="col-100 ui-border navpre">账单查询</div>
+    </div>
+</block>
+<block name="body">
+    <div class="weui_cells_radio">
+        <label class="weui_cell weui_check_label" for="x11">
+            <div class="weui_cell_bd weui_cell_primary">
+                <p>收入</p>
+            </div>
+            <div class="weui_cell_ft">
+                <input type="radio" class="weui_check" name="radio1" id="x11">
+                <span class="weui_icon_checked"></span> </div>
+        </label>
+        <label class="weui_cell weui_check_label" for="x12">
+            <div class="weui_cell_bd weui_cell_primary">
+                <p>支出</p>
+            </div>
+            <div class="weui_cell_ft">
+                <input type="radio" name="radio1" class="weui_check" id="x12">
+                <span class="weui_icon_checked"></span> </div>
+        </label>
+    </div>
+    <div class="weui_cell">
+        <div class="weui_cell_hd">
+            <label class="weui_label" style="width:7em;">分类选择</label>
+        </div>
+        <div class="weui_cell_bd weui_cell_primary">
+            <select class="weui_select" name="category">
+                <option value="2">QQ号</option>
+                <option value="3">Email</option>
+            </select>
+        </div>
+    </div>
+    <div class="weui_cell">
+        <div class="weui_cell_hd">
+            <label class="weui_label" style="width:7em;">开始时间</label>
+        </div>
+        <div class="weui_cell_bd weui_cell_primary">
+            <input  id="beginTime" class="kbtn weui_input" />
+        </div>
+    </div>
+    <div class="weui_cell">
+        <div class="weui_cell_hd">
+            <label class="weui_label" style="width:7em;">结束时间</label>
+        </div>
+        <div class="weui_cell_bd weui_cell_primary">
+            <input id="endTime" class="kbtn weui_input" />
+        </div>
+    </div>
+    <div class="weui_btn_area"> <a class="weui_btn weui_btn_primary" href="javascript:" id="showTooltips">立即查询</a> </div>
+    <div id="datePlugin"></div>
+    <br/>
+</block>

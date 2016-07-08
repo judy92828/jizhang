@@ -1,0 +1,68 @@
+﻿#body {
+    background-color: #fff;
+}
+#formEditor {
+    padding: 10px 12px;
+}
+.formfield {
+    overflow: hidden;
+    margin-bottom: 10px;
+}
+.formfield > label {
+    line-height: 20px;
+    padding: 10px 0;
+    float: left;
+    width: 140px;
+    text-align: right;
+    color: #009999;
+}
+.formfield > .field {
+    margin-left: 150px;
+}
+.formfield .txt {
+    text-align: center;
+    background-color: #f0f0f0;
+}
+.line-notes {
+    margin-bottom: 0px;
+}
+.line-notes textarea {
+    background-color: #f0f0f0;
+}
+.line-tip {
+    font-size: 9pt;
+    color: #999;
+    line-height: 20px;
+    margin-bottom: 10px;
+}
+
+.footer {
+    overflow: hidden;
+}
+#btnSubmit {
+    background-color: #00cccc;
+    line-height: 50px;
+    text-align: center;
+    width: 130px;
+    float: right;
+    color: #fff;
+}
+#btnSubmit.disabled {
+    background-color: #aaa;
+}
+.footer .left {
+    line-height: 50px;
+    padding: 0 12px;
+    color: #eee;
+}
+
+a#linkToTheOther {
+    display: block;
+    padding: 15px 12px;
+    border-bottom: 1px dashed #ddd;
+    margin-bottom: 15px;
+    color: #ff6600;
+    background: url("../images/arrow-right.png") right center no-repeat;
+    -ms-background-size: 19px auto;
+    background-size: 19px auto;
+}
