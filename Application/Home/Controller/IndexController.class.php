@@ -11,6 +11,8 @@ class IndexController extends CommonController {
     //收入
     public function income()
     {
+        $income=M('income')->order('id desc')->select();
+        $this->assign('income',$income);
         $this->assign('title','收入账单');
         $this->display();
     }
@@ -48,20 +50,73 @@ class IndexController extends CommonController {
             $this->display();
         }
     }
+    
+    //分类修改
+    public function cateedit()
+    {
+        if($_POST){
+            $id=I('id');
+            $data=array(
+                'name'=>I('category'),
+                'times'=>time()
+            );
+            $where['name'] = array('like','%'.I('category').'%');
+            if(M('category')->where($where)->find()){
+                echo '2';
+            }else{
+                if(M('category')->where(array('id'=>$id))->save($data)){
+                    echo '1';
+                }else{
+                    echo '0';
+                }
+            }
+        }else{
+            echo '0';
+        }
+    }
+    
+    //删除分类
+    public function catedel()
+    {
+        $id=I('id');
+        if(M('category')->where(array('id'=>$id))->delete()){
+            echo '1';
+        }else{
+            echo '0';
+        }
+    }
 
     //添加收入
     public function addincome()
     {
-
-        $this->assign('title','添加收入账单');
-        $this->display();
+        if($_POST){
+            $_POST['date']=strtotime($_POST['date']);
+            $_POST['times']=time();
+            if(M('income')->add($_POST)){
+                echo '1';
+            }else{
+                echo '0';
+            }
+        }else{
+            $this->assign('title','添加收入账单');
+            $this->display();
+        }
     }
 
     //添加支出
     public function addexpend()
     {
-
-        $this->assign('title','添加支出账单');
-        $this->display();
+        if($_POST){
+            $_POST['date']=strtotime($_POST['date']);
+            $_POST['times']=time();
+            if(M('income')->add($_POST)){
+                echo '1';
+            }else{
+                echo '0';
+            }
+        }else{
+            $this->assign('title','添加支出账单');
+            $this->display();
+        }
     }
 }

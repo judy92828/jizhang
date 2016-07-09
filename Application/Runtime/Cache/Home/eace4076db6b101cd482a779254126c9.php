@@ -13,6 +13,7 @@
     <link rel="stylesheet" href="/Public/index/css/weui.css"/>
     <link rel="stylesheet" href="/Public/index/css/weui2.css"/>
     <script src="/Public/index/js/zepto.min.js"></script>
+    <script src="/Public/layer/layer.js"></script>
     <style type="text/css">
         .weui_media_box.weui_media_appmsg{ border-bottom:1px solid #E5E5E5;}
         .footer #footerMe a {background-image: url("/Public/index/images/sy.png");}

@@ -104,41 +104,84 @@
 
         <div class="weui_cell_ft submit"> <img src="/Public/index/images/sub.png"> </div>
     </div>
-    <div class="weui_cell">
+    <?php if(is_array($category)): $i = 0; $__LIST__ = $category;if( count($__LIST__)==0 ) : echo "" ;else: foreach($__LIST__ as $key=>$vo): $mod = ($i % 2 );++$i;?><div class="weui_cell">
         <div class="weui_cell_hd"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAC4AAAAuCAMAAABgZ9sFAAAAVFBMVEXx8fHMzMzr6+vn5+fv7+/t7e3d3d2+vr7W1tbHx8eysrKdnZ3p6enk5OTR0dG7u7u3t7ejo6PY2Njh4eHf39/T09PExMSvr6+goKCqqqqnp6e4uLgcLY/OAAAAnklEQVRIx+3RSRLDIAxE0QYhAbGZPNu5/z0zrXHiqiz5W72FqhqtVuuXAl3iOV7iPV/iSsAqZa9BS7YOmMXnNNX4TWGxRMn3R6SxRNgy0bzXOW8EBO8SAClsPdB3psqlvG+Lw7ONXg/pTld52BjgSSkA3PV2OOemjIDcZQWgVvONw60q7sIpR38EnHPSMDQ4MjDjLPozhAkGrVbr/z0ANjAF4AcbXmYAAAAASUVORK5CYII=" alt="" style="width:20px;margin-right:5px;display:block"></div>
         <div class="weui_cell_bd weui_cell_primary">
-            <p>餐饮</p>
+            <p id="body<?php echo ($vo["id"]); ?>"><?php echo ($vo["name"]); ?></p>
         </div>
-        <div class="weui_cell_ft">修改 | 删除</div>
-    </div>
-    <div class="weui_cell">
-        <div class="weui_cell_hd"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAC4AAAAuCAMAAABgZ9sFAAAAVFBMVEXx8fHMzMzr6+vn5+fv7+/t7e3d3d2+vr7W1tbHx8eysrKdnZ3p6enk5OTR0dG7u7u3t7ejo6PY2Njh4eHf39/T09PExMSvr6+goKCqqqqnp6e4uLgcLY/OAAAAnklEQVRIx+3RSRLDIAxE0QYhAbGZPNu5/z0zrXHiqiz5W72FqhqtVuuXAl3iOV7iPV/iSsAqZa9BS7YOmMXnNNX4TWGxRMn3R6SxRNgy0bzXOW8EBO8SAClsPdB3psqlvG+Lw7ONXg/pTld52BjgSSkA3PV2OOemjIDcZQWgVvONw60q7sIpR38EnHPSMDQ4MjDjLPozhAkGrVbr/z0ANjAF4AcbXmYAAAAASUVORK5CYII=" alt="" style="width:20px;margin-right:5px;display:block"></div>
-        <div class="weui_cell_bd weui_cell_primary">
-            <p>餐饮</p>
-        </div>
-        <div class="weui_cell_ft">修改 | 删除</div>
-    </div>
-    <div class="weui_cell">
-        <div class="weui_cell_hd"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAC4AAAAuCAMAAABgZ9sFAAAAVFBMVEXx8fHMzMzr6+vn5+fv7+/t7e3d3d2+vr7W1tbHx8eysrKdnZ3p6enk5OTR0dG7u7u3t7ejo6PY2Njh4eHf39/T09PExMSvr6+goKCqqqqnp6e4uLgcLY/OAAAAnklEQVRIx+3RSRLDIAxE0QYhAbGZPNu5/z0zrXHiqiz5W72FqhqtVuuXAl3iOV7iPV/iSsAqZa9BS7YOmMXnNNX4TWGxRMn3R6SxRNgy0bzXOW8EBO8SAClsPdB3psqlvG+Lw7ONXg/pTld52BjgSSkA3PV2OOemjIDcZQWgVvONw60q7sIpR38EnHPSMDQ4MjDjLPozhAkGrVbr/z0ANjAF4AcbXmYAAAAASUVORK5CYII=" alt="" style="width:20px;margin-right:5px;display:block"></div>
-        <div class="weui_cell_bd weui_cell_primary">
-            <p>餐饮</p>
-        </div>
-        <div class="weui_cell_ft">修改 | 删除</div>
-    </div>
-    <div class="dialog" id='dialog' style="display:none; display: block;">
+        <div class="weui_cell_ft edit<?php echo ($vo["id"]); ?>"><span onclick="edit(<?php echo ($vo["id"]); ?>)">修改</span> | <span onclick="del(<?php echo ($vo["id"]); ?>)">删除</span></div>
+    </div><?php endforeach; endif; else: echo "" ;endif; ?>
+    <div class="dialog" id='dialog' style="display:none;">
         <div class="d-box">
             <div onclick="$('#dialog').hide();" class="d-close">X</div>
             <div class="weui_cell_bd weui_cell_primary" style="height:auto; display: block; overflow: hidden; background-color: #fff;">
                 <div>
                     <input class="weui_input" name="category" type="text" placeholder="请输入分类名称" style="width: 80%; margin-top: 20px; border: 1px solid #ccc;height: 40px;">
                     <div class="weui_btn_area">
-                        <a class="weui_btn weui_btn_primary" href="javascript:" id="showTooltips">确定</a>
+                        <a class="weui_btn weui_btn_primary submit" href="javascript:" id="showTooltips">确定</a>
                     </div>
                     <br/>
                 </div>
             </div>
         </div>
     </div>
+    <script type="text/javascript">
+        function edit(key){
+            $('#body'+key).html('<input type="text" name="category" id="text'+key+'" class="weui_input" value="'+$('#body'+key).text()+'" />');
+            $('.edit'+key).html('<a class="weui_btn weui_btn_primary" onclick="sub('+key+')" href="javascript:" style="font-size: 10px; line-height: 25px;">确定</a> ');
+            $('#text'+key).focus().val($('#text'+key).val());
+        }
+        function sub(id){
+            var cate = $('#text'+id).val();
+            if (cate == null || cate == undefined || cate == '') {
+                layer.msg('分类名不能为空！')
+            }else{
+                layer.load();
+                $.post("<?php echo U('Index/cateedit');?>",
+                {
+                    category:cate,
+                    id:id
+                },
+                function(data,status){
+                    if(data==1){
+                        layer.closeAll('loading');
+                        layer.msg('修改成功');
+                        setTimeout(function(){
+                            window.location.reload();
+                        },1200)
+                    }else if(data==0){
+                        layer.msg('修改失败');
+                        layer.closeAll('loading');
+
+                    }else if(data==2){
+                        layer.msg('该分类存在');
+                        layer.closeAll('loading');
+                    }
+                });
+            }
+        }
+        function del(id){
+            if (id == null || id == undefined || id == '') {
+                layer.msg('数据错误！');
+            }else{
+                layer.confirm('你确定删除该数据吗', {
+                    btn: ['确定','取消'] //按钮
+                }, function(){
+                    layer.load();
+                    $.post("<?php echo U('Index/catedel');?>",
+                    {
+                        id:id
+                    },
+                    function(data,status){
+                        layer.closeAll('loading');
+                        if(data==1){layer.msg('删除成功');setTimeout(function(){window.location.reload();},1200)}else{layer.msg('删除失败')}
+                    });
+                }, function(){
+
+                });
+            }
+        }
+    </script>
 
         </div>
         
