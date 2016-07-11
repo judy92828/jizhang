@@ -68,26 +68,26 @@
         <div class="header"> </div>
         <div class="content">
             
-                <div class="section-bg"> <a class="user-wrap" href="index.html"> <img /> </a>
+                <div class="section-bg"> <a class="user-wrap" href="/"> <img src="/Public/index/images/logo.png" /> </a>
                 <div class="user-name" id="lblNickname"></div>
                 <div class="section-numbers">
                     <ul>
                         <li id="linkMessage">
-                            <a href="/app/message">
+                            <a href="javascript:;">
                                 <p>昨日支出</p>
-                                <p>400元</p>
+                                <p><?php if($zrsum != null): echo ($zrsum); else: ?>0<?php endif; ?>元</p>
                             </a>
                         </li>
                         <li id="linkMessage">
-                            <a href="/app/message">
+                            <a href="javascript:;">
                                 <p>本周支出</p>
-                                <p>239元</p>
+                                <p><?php if($bzsum != null): echo ($bzsum); else: ?>0<?php endif; ?>元</p>
                             </a>
                         </li>
                         <li id="linkMessage">
-                            <a href="/app/message">
+                            <a href="javascript:;">
                                 <p>本月支出</p>
-                                <p>9878元</p>
+                                <p><?php if($bysum != null): echo ($bysum); else: ?>0<?php endif; ?>元</p>
                             </a>
                         </li>
                     </ul>
@@ -105,7 +105,7 @@
         <div class="weui_cell_ft submit"> <img src="/Public/index/images/sub.png"> </div>
     </div>
     <?php if(is_array($category)): $i = 0; $__LIST__ = $category;if( count($__LIST__)==0 ) : echo "" ;else: foreach($__LIST__ as $key=>$vo): $mod = ($i % 2 );++$i;?><div class="weui_cell">
-        <div class="weui_cell_hd"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAC4AAAAuCAMAAABgZ9sFAAAAVFBMVEXx8fHMzMzr6+vn5+fv7+/t7e3d3d2+vr7W1tbHx8eysrKdnZ3p6enk5OTR0dG7u7u3t7ejo6PY2Njh4eHf39/T09PExMSvr6+goKCqqqqnp6e4uLgcLY/OAAAAnklEQVRIx+3RSRLDIAxE0QYhAbGZPNu5/z0zrXHiqiz5W72FqhqtVuuXAl3iOV7iPV/iSsAqZa9BS7YOmMXnNNX4TWGxRMn3R6SxRNgy0bzXOW8EBO8SAClsPdB3psqlvG+Lw7ONXg/pTld52BjgSSkA3PV2OOemjIDcZQWgVvONw60q7sIpR38EnHPSMDQ4MjDjLPozhAkGrVbr/z0ANjAF4AcbXmYAAAAASUVORK5CYII=" alt="" style="width:20px;margin-right:5px;display:block"></div>
+        <div class="weui_cell_hd"><img src="/Public/index/images/cate/<?php echo rand(1,11); ?>.png" alt="" style="width:20px;margin-right:5px;display:block"></div>
         <div class="weui_cell_bd weui_cell_primary">
             <p id="body<?php echo ($vo["id"]); ?>"><?php echo ($vo["name"]); ?></p>
         </div>

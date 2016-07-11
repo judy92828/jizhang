@@ -3,15 +3,41 @@ namespace Home\Controller;
 
 
 class IndexController extends CommonController {
-    public function index(){
 
+    //支出 1  收入 0
+    public function _initialize()
+    {
+        parent::_initialize();//昨日支出
+        $zrtime=date("Y-m-d",time()-(1*24*60*60));
+        $zrsum=M('bill')->where(array('mold'=>'1','date'=>strtotime($zrtime)))->sum('price');
+        $this->assign('zrsum',$zrsum);
+        //本周支出
+        $bztime=date("Y-m-d",time()-(7*24*60*60));
+        $where['mold']=1;
+        $where['date']=array('gt',strtotime($bztime));
+        $bzsum=M('bill')->where($where)->sum('price');
+        $this->assign('bzsum',$bzsum);
+        //本月支出
+        $bytime=date("Y-m-d H:i:s",mktime(0, 0 , 0,date("m"),1,date("Y")));
+        $where['mold']=1;
+        $where['date']=array('gt',strtotime($bytime));
+        $bysum=M('bill')->where($where)->sum('price');
+        $this->assign('bysum',$bysum);
+    }
+
+    public function index(){
+        $rel = M('bill')->order('id desc')->limit(30)->select();
+        $this->assign('bill',$rel);
         $this->assign('title','账单首页');
         $this->display();
     }
     //收入
     public function income()
     {
-        $income=M('income')->order('id desc')->select();
+        //求总和
+        $sum=M('bill')->where(array('mold'=>'0'))->sum('price');
+        $this->assign('sum',$sum);
+        $income=M('bill')->where(array('mold'=>'0'))->order('id desc')->select();
         $this->assign('income',$income);
         $this->assign('title','收入账单');
         $this->display();
@@ -20,6 +46,11 @@ class IndexController extends CommonController {
     //支出
     public function expend()
     {
+        //求总和
+        $sum=M('bill')->where(array('mold'=>'1'))->sum('price');
+        $this->assign('sum',$sum);
+        $expend=M('bill')->where(array('mold'=>'1'))->order('id desc')->select();
+        $this->assign('expend',$expend);
         $this->assign('title','支出账单');
         $this->display();
     }
@@ -92,7 +123,8 @@ class IndexController extends CommonController {
         if($_POST){
             $_POST['date']=strtotime($_POST['date']);
             $_POST['times']=time();
-            if(M('income')->add($_POST)){
+            $_POST['mold']= '0';
+            if(M('bill')->add($_POST)){
                 echo '1';
             }else{
                 echo '0';
@@ -109,13 +141,43 @@ class IndexController extends CommonController {
         if($_POST){
             $_POST['date']=strtotime($_POST['date']);
             $_POST['times']=time();
-            if(M('income')->add($_POST)){
+            $_POST['mold']= '1';
+            if(M('bill')->add($_POST)){
                 echo '1';
             }else{
                 echo '0';
             }
         }else{
+            //获取分类
+            $cate=M('category')->select();
+            $this->assign('category',$cate);
             $this->assign('title','添加支出账单');
+            $this->display();
+        }
+    }
+    
+    //搜索操作
+    public function seach()
+    {
+        if($_POST){
+            if($_POST['mold'] != null){
+                $where['mold']=$_POST['mold'];
+            }
+            if($_POST['category'] != null){
+                $where['type']=$_POST['category'];
+            }
+            if($_POST['beginTime'] != null && $_POST['endTime'] != null){
+                $where['date']=array(array('gt',strtotime($_POST['beginTime'])),array('lt',strtotime($_POST['endTime'])));
+            }
+            $rel = M('bill')->where($where)->select();
+            $this->assign('bill',$rel);
+            $sum = M('bill')->where($where)->sum('price');
+            $this->assign('sum',$sum);
+            $this->display('seachs');
+        }else{
+            //获取分类
+            $cate=M('category')->select();
+            $this->assign('category',$cate);
             $this->display();
         }
     }

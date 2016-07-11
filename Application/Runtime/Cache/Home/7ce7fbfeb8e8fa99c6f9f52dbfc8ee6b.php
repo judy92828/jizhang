@@ -66,26 +66,26 @@
         <div class="header"> </div>
         <div class="content">
             
-                <div class="section-bg"> <a class="user-wrap" href="index.html"> <img /> </a>
+                <div class="section-bg"> <a class="user-wrap" href="/"> <img src="/Public/index/images/logo.png" /> </a>
                 <div class="user-name" id="lblNickname"></div>
                 <div class="section-numbers">
                     <ul>
                         <li id="linkMessage">
-                            <a href="/app/message">
+                            <a href="javascript:;">
                                 <p>昨日支出</p>
-                                <p>400元</p>
+                                <p><?php if($zrsum != null): echo ($zrsum); else: ?>0<?php endif; ?>元</p>
                             </a>
                         </li>
                         <li id="linkMessage">
-                            <a href="/app/message">
+                            <a href="javascript:;">
                                 <p>本周支出</p>
-                                <p>239元</p>
+                                <p><?php if($bzsum != null): echo ($bzsum); else: ?>0<?php endif; ?>元</p>
                             </a>
                         </li>
                         <li id="linkMessage">
-                            <a href="/app/message">
+                            <a href="javascript:;">
                                 <p>本月支出</p>
-                                <p>9878元</p>
+                                <p><?php if($bysum != null): echo ($bysum); else: ?>0<?php endif; ?>元</p>
                             </a>
                         </li>
                     </ul>

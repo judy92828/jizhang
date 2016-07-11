@@ -2,6 +2,7 @@
 namespace Home\Controller;
 use Think\Controller;
 class CommonController extends Controller {
+
     public function _initialize(){
         $user = cookie('users');
         if($user == ''){

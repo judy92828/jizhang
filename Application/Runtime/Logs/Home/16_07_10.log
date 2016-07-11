@@ -1,0 +1,2892 @@
+[ 2016-07-10T09:50:38+08:00 ] ::1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.046003s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.054003s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.054003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.008001s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.008001s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.264015s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.264015s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.040002s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.040002s ]
+
+[ 2016-07-10T09:50:39+08:00 ] ::1 /index.php/Home/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.170010s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.170010s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.246014s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.246014s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.043003s ]
+INFO: [ app_end ] --END-- [ RunTime:0.044003s ]
+
+[ 2016-07-10T09:51:14+08:00 ] ::1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-07-10T09:51:15+08:00 ] ::1 /index.php/Home/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-07-10T09:51:18+08:00 ] ::1 /index.php/Home/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-07-10T09:51:21+08:00 ] ::1 /index.php/Home/Login/yzlogin.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-07-10T09:51:22+08:00 ] ::1 /index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.061004s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.062004s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-07-10T09:51:26+08:00 ] ::1 /index.php/Home/Index/income.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `jz_income` [ RunTime:0.0410s ]
+SQL: SELECT * FROM `jz_income` ORDER BY id desc  [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001001s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001001s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.044003s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.044003s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-07-10T09:51:32+08:00 ] ::1 /index.php/Home/Index/expend.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `jz_expend` [ RunTime:0.0700s ]
+SQL: SELECT * FROM `jz_expend` ORDER BY id desc  [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `jz_category` [ RunTime:0.0580s ]
+SQL: SELECT `name` FROM `jz_category` WHERE `id` = 2 LIMIT 1   [ RunTime:0.0010s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.107007s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.107007s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2016-07-10T09:51:35+08:00 ] ::1 /index.php/Home/Index/income.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `jz_income` [ RunTime:0.0080s ]
+SQL: SELECT * FROM `jz_income` ORDER BY id desc  [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.016001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-07-10T10:00:01+08:00 ] ::1 /index.php/Home/Index/income.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `jz_income` [ RunTime:0.0080s ]
+SQL: SELECT * FROM `jz_income` ORDER BY id desc  [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.039003s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.040003s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-07-10T10:00:04+08:00 ] ::1 /index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-07-10T10:00:15+08:00 ] ::1 /index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 1146:Table 'jizhang.income' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `income`
+ERR: 1146:Table 'jizhang.income' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `income`
+
+[ 2016-07-10T10:00:40+08:00 ] ::1 /index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `jz_income` [ RunTime:0.0080s ]
+ERR: 1052:Column 'id' in order clause is ambiguous
+ [ SQL语句 ] : SELECT * FROM jz_income come,jz_expend end ORDER BY id desc LIMIT 5  
+ERR: 1052:Column 'id' in order clause is ambiguous
+ [ SQL语句 ] : SELECT * FROM jz_income come,jz_expend end ORDER BY id desc LIMIT 5  
+
+[ 2016-07-10T10:00:55+08:00 ] ::1 /index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `jz_income` [ RunTime:0.0090s ]
+SQL: SELECT * FROM jz_income come,jz_expend end LIMIT 5   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.014001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-07-10T10:04:50+08:00 ] ::1 /index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `jz_income` [ RunTime:0.0080s ]
+SQL: SELECT * FROM jz_income come,jz_expend end WHERE ( come.state=end.state ) LIMIT 5   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.016000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001001s ]
+
+[ 2016-07-10T21:33:49+08:00 ] ::1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.025001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.025001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-07-10T21:33:50+08:00 ] ::1 /index.php/Home/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.041002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.041002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-07-10T21:33:52+08:00 ] ::1 /index.php/Home/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-07-10T21:33:59+08:00 ] ::1 /index.php/Home/Login/yzlogin.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-07-10T21:34:01+08:00 ] ::1 /index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 1146:Table 'jizhang.jz_income' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `jz_income`
+ERR: 1146:Table 'jizhang.jz_income' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `jz_income`
+
+[ 2016-07-10T21:39:07+08:00 ] ::1 /index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `jz_bill` [ RunTime:0.0080s ]
+SQL: SELECT * FROM `jz_bill` ORDER BY id desc LIMIT 5   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-07-10T21:39:18+08:00 ] ::1 /index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `jz_bill` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `jz_bill` ORDER BY id desc LIMIT 5   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-07-10T21:39:21+08:00 ] ::1 /index.php/Home/Index/addincome.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.028001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.028001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-07-10T21:39:42+08:00 ] ::1 /index.php/Home/Index/addincome.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `jz_bill` [ RunTime:0.0070s ]
+SQL: INSERT INTO `jz_bill` (`price`,`date`,`msg`,`type`,`times`,`mold`) VALUES ('12','1468080000','项目收入','1','1468157981','0') [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-07-10T21:39:56+08:00 ] ::1 /index.php/Home/Index/addincome.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `jz_bill` [ RunTime:0.0080s ]
+SQL: INSERT INTO `jz_bill` (`price`,`date`,`msg`,`type`,`times`,`mold`) VALUES ('15','1468080000','朋友礼钱','3','1468157995','0') [ RunTime:0.0010s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-07-10T21:40:09+08:00 ] ::1 /index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `jz_bill` [ RunTime:0.0080s ]
+SQL: SELECT * FROM `jz_bill` ORDER BY id desc LIMIT 5   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-07-10T21:40:11+08:00 ] ::1 /index.php/Home/Index/addexpend.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `jz_category` [ RunTime:0.0310s ]
+SQL: SELECT * FROM `jz_category`  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.035002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.035002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001001s ]
+
+[ 2016-07-10T21:40:35+08:00 ] ::1 /index.php/Home/Index/addexpend.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `jz_bill` [ RunTime:0.0030s ]
+SQL: INSERT INTO `jz_bill` (`price`,`date`,`msg`,`type`,`times`,`mold`) VALUES ('15','1468080000','去亲戚家里 滴滴费用','3','1468158034','1') [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-07-10T21:40:47+08:00 ] ::1 /index.php/Home/Index/addexpend.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `jz_bill` [ RunTime:0.0070s ]
+SQL: INSERT INTO `jz_bill` (`price`,`date`,`msg`,`type`,`times`,`mold`) VALUES ('32','1468080000','回家的滴滴费用','3','1468158046','1') [ RunTime:0.0010s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-07-10T21:40:59+08:00 ] ::1 /index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `jz_bill` [ RunTime:0.0070s ]
+SQL: SELECT * FROM `jz_bill` ORDER BY id desc LIMIT 5   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.014001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-07-10T21:41:03+08:00 ] ::1 /index.php/Home/Index/income.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `jz_bill` [ RunTime:0.0070s ]
+SQL: SELECT * FROM `jz_bill` WHERE `mold` = 0 ORDER BY id desc  [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.045002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.045002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-07-10T21:41:05+08:00 ] ::1 /index.php/Home/Index/expend.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `jz_bill` [ RunTime:0.0070s ]
+SQL: SELECT * FROM `jz_bill` WHERE `mold` = 1 ORDER BY id desc  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `jz_category` [ RunTime:0.0060s ]
+SQL: SELECT `name` FROM `jz_category` WHERE `id` = 3 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `name` FROM `jz_category` WHERE `id` = 3 LIMIT 1   [ RunTime:0.0010s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.042003s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.042003s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-07-10T21:41:07+08:00 ] ::1 /index.php/Home/Index/category.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002001s ]
+SQL: SHOW COLUMNS FROM `jz_category` [ RunTime:0.0070s ]
+SQL: SELECT * FROM `jz_category`  [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.092006s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.092006s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-07-10T21:41:09+08:00 ] ::1 /index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `jz_bill` [ RunTime:0.0070s ]
+SQL: SELECT * FROM `jz_bill` ORDER BY id desc LIMIT 5   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.016001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-07-10T21:45:16+08:00 ] ::1 /index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `jz_bill` [ RunTime:0.0090s ]
+SQL: SELECT * FROM `jz_bill` ORDER BY id desc LIMIT 5   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.031002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.031002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-07-10T21:45:16+08:00 ] ::1 /index.php/Home/Index/images/me-feedback.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-07-10T21:45:17+08:00 ] ::1 /index.php/Home/Index/images/me-book.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-07-10T21:46:05+08:00 ] ::1 /index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `jz_bill` [ RunTime:0.0090s ]
+SQL: SELECT * FROM `jz_bill` ORDER BY id desc LIMIT 5   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-07-10T21:46:05+08:00 ] ::1 /index.php/Home/Index/images/me-feedback.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-07-10T21:46:06+08:00 ] ::1 /index.php/Home/Index/images/me-book.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-07-10T21:49:57+08:00 ] ::1 /index.php/Home/Index/income.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `jz_bill` [ RunTime:0.0070s ]
+SQL: SELECT * FROM `jz_bill` WHERE `mold` = 0 ORDER BY id desc  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.018001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.018001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-07-10T21:53:46+08:00 ] ::1 /index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `jz_bill` [ RunTime:0.0070s ]
+SQL: SELECT * FROM `jz_bill` ORDER BY id desc LIMIT 5   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `jz_category` [ RunTime:0.0040s ]
+SQL: SELECT `name` FROM `jz_category` WHERE `id` = 3 LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `name` FROM `jz_category` WHERE `id` = 3 LIMIT 1   [ RunTime:0.0000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.035002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.035002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-07-10T21:53:46+08:00 ] ::1 /index.php/Home/Index/images/me-feedback.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-07-10T21:53:47+08:00 ] ::1 /index.php/Home/Index/images/me-book.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-07-10T21:54:30+08:00 ] ::1 /index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `jz_bill` [ RunTime:0.0070s ]
+SQL: SELECT * FROM `jz_bill` ORDER BY id desc LIMIT 5   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `jz_category` [ RunTime:0.0080s ]
+SQL: SELECT `name` FROM `jz_category` WHERE `id` = 3 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `name` FROM `jz_category` WHERE `id` = 3 LIMIT 1   [ RunTime:0.0000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.025002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.025002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2016-07-10T21:54:30+08:00 ] ::1 /index.php/Home/Index/images/me-feedback.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-07-10T21:54:31+08:00 ] ::1 /index.php/Home/Index/images/me-book.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-07-10T21:54:42+08:00 ] ::1 /index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `jz_bill` [ RunTime:0.0070s ]
+SQL: SELECT * FROM `jz_bill` ORDER BY id desc LIMIT 5   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `jz_category` [ RunTime:0.0070s ]
+SQL: SELECT `name` FROM `jz_category` WHERE `id` = 3 LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `name` FROM `jz_category` WHERE `id` = 3 LIMIT 1   [ RunTime:0.0010s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.025001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.025001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-07-10T21:54:42+08:00 ] ::1 /index.php/Home/Index/images/me-feedback.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-07-10T21:54:44+08:00 ] ::1 /index.php/Home/Index/images/me-book.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+
+[ 2016-07-10T21:55:10+08:00 ] ::1 /index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+SQL: SHOW COLUMNS FROM `jz_bill` [ RunTime:0.0070s ]
+SQL: SELECT * FROM `jz_bill` ORDER BY id desc LIMIT 5   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `jz_category` [ RunTime:0.0080s ]
+SQL: SELECT `name` FROM `jz_category` WHERE `id` = 3 LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `name` FROM `jz_category` WHERE `id` = 3 LIMIT 1   [ RunTime:0.0000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.025002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.025002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-07-10T21:55:10+08:00 ] ::1 /index.php/Home/Index/images/me-book.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-07-10T21:55:11+08:00 ] ::1 /index.php/Home/Index/images/me-feedback.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-07-10T21:55:31+08:00 ] ::1 /index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `jz_bill` [ RunTime:0.0070s ]
+SQL: SELECT * FROM `jz_bill` ORDER BY id desc LIMIT 5   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `jz_category` [ RunTime:0.0080s ]
+SQL: SELECT `name` FROM `jz_category` WHERE `id` = 3 LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `name` FROM `jz_category` WHERE `id` = 3 LIMIT 1   [ RunTime:0.0010s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.026002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.026002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-07-10T21:55:31+08:00 ] ::1 /index.php/Home/Index/images/me-book.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-07-10T21:55:32+08:00 ] ::1 /index.php/Home/Index/images/me-feedback.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-07-10T21:56:02+08:00 ] ::1 /index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `jz_bill` [ RunTime:0.0070s ]
+SQL: SELECT * FROM `jz_bill` ORDER BY id desc LIMIT 5   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `jz_category` [ RunTime:0.0070s ]
+SQL: SELECT `name` FROM `jz_category` WHERE `id` = 3 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `name` FROM `jz_category` WHERE `id` = 3 LIMIT 1   [ RunTime:0.0000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.027001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.027001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2016-07-10T21:56:02+08:00 ] ::1 /index.php/Home/Index/images/me-book.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-07-10T21:56:03+08:00 ] ::1 /index.php/Home/Index/images/me-feedback.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-07-10T22:00:32+08:00 ] ::1 /index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `jz_bill` [ RunTime:0.0080s ]
+SQL: SELECT * FROM `jz_bill` ORDER BY id desc LIMIT 5   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `jz_category` [ RunTime:0.0050s ]
+SQL: SELECT `name` FROM `jz_category` WHERE `id` = 3 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `name` FROM `jz_category` WHERE `id` = 3 LIMIT 1   [ RunTime:0.0010s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.028001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.028001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-07-10T22:00:33+08:00 ] ::1 /index.php/Home/Index/images/me-feedback.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-07-10T22:00:34+08:00 ] ::1 /index.php/Home/Index/images/me-book.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-07-10T22:05:38+08:00 ] ::1 /index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `jz_bill` [ RunTime:0.0070s ]
+SQL: SELECT * FROM `jz_bill` ORDER BY id desc LIMIT 5   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `jz_category` [ RunTime:0.0040s ]
+SQL: SELECT `name` FROM `jz_category` WHERE `id` = 3 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `name` FROM `jz_category` WHERE `id` = 3 LIMIT 1   [ RunTime:0.0000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.017001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-07-10T22:05:38+08:00 ] ::1 /index.php/Home/Index/images/me-book.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-07-10T22:05:39+08:00 ] ::1 /index.php/Home/Index/images/me-feedback.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-07-10T22:06:03+08:00 ] ::1 /index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `jz_bill` [ RunTime:0.0070s ]
+SQL: SELECT * FROM `jz_bill` ORDER BY id desc LIMIT 5   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `jz_category` [ RunTime:0.0070s ]
+SQL: SELECT `name` FROM `jz_category` WHERE `id` = 3 LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `name` FROM `jz_category` WHERE `id` = 3 LIMIT 1   [ RunTime:0.0010s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.025002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.025002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-07-10T22:06:03+08:00 ] ::1 /index.php/Home/Index/images/me-book.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-07-10T22:06:04+08:00 ] ::1 /index.php/Home/Index/images/me-feedback.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-07-10T22:08:10+08:00 ] ::1 /index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `jz_bill` [ RunTime:0.0080s ]
+SQL: SELECT * FROM `jz_bill` ORDER BY id desc LIMIT 5   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `jz_category` [ RunTime:0.0040s ]
+SQL: SELECT `name` FROM `jz_category` WHERE `id` = 3 LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `name` FROM `jz_category` WHERE `id` = 3 LIMIT 1   [ RunTime:0.0000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.036002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.036002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-07-10T22:08:10+08:00 ] ::1 /index.php/Home/Index/images/me-feedback.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-07-10T22:08:11+08:00 ] ::1 /index.php/Home/Index/images/me-book.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-07-10T22:26:29+08:00 ] ::1 /index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `jz_bill` [ RunTime:0.0080s ]
+SQL: SELECT * FROM `jz_bill` ORDER BY id desc LIMIT 5   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `jz_category` [ RunTime:0.0040s ]
+SQL: SELECT `name` FROM `jz_category` WHERE `id` = 3 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `name` FROM `jz_category` WHERE `id` = 3 LIMIT 1   [ RunTime:0.0010s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.038002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.038002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-07-10T22:26:29+08:00 ] ::1 /index.php/Home/Index/images/me-book.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-07-10T22:26:30+08:00 ] ::1 /index.php/Home/Index/images/me-feedback.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-07-10T22:27:09+08:00 ] ::1 /index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `jz_bill` [ RunTime:0.0070s ]
+SQL: SELECT * FROM `jz_bill` ORDER BY id desc LIMIT 5   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `jz_category` [ RunTime:0.0050s ]
+SQL: SELECT `name` FROM `jz_category` WHERE `id` = 3 LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `name` FROM `jz_category` WHERE `id` = 3 LIMIT 1   [ RunTime:0.0000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.022001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.023001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-07-10T22:27:10+08:00 ] ::1 /index.php/Home/Index/images/me-feedback.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-07-10T22:27:11+08:00 ] ::1 /index.php/Home/Index/images/me-book.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-07-10T22:29:00+08:00 ] ::1 /index.php/Home/Index/addsr.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: 非法操作:addsr
+
+[ 2016-07-10T22:29:04+08:00 ] ::1 /index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `jz_bill` [ RunTime:0.0070s ]
+SQL: SELECT * FROM `jz_bill` ORDER BY id desc LIMIT 5   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `jz_category` [ RunTime:0.0080s ]
+SQL: SELECT `name` FROM `jz_category` WHERE `id` = 3 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `name` FROM `jz_category` WHERE `id` = 3 LIMIT 1   [ RunTime:0.0010s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.028002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.028002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2016-07-10T22:29:04+08:00 ] ::1 /index.php/Home/Index/images/me-book.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-07-10T22:29:05+08:00 ] ::1 /index.php/Home/Index/images/me-feedback.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-07-10T22:29:06+08:00 ] ::1 /index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `jz_bill` [ RunTime:0.0080s ]
+SQL: SELECT * FROM `jz_bill` ORDER BY id desc LIMIT 5   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `jz_category` [ RunTime:0.0100s ]
+SQL: SELECT `name` FROM `jz_category` WHERE `id` = 3 LIMIT 1   [ RunTime:0.0040s ]
+SQL: SELECT `name` FROM `jz_category` WHERE `id` = 3 LIMIT 1   [ RunTime:0.0020s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.032002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.033002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-07-10T22:29:06+08:00 ] ::1 /index.php/Home/Index/addzc.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 非法操作:addzc
+
+[ 2016-07-10T22:29:08+08:00 ] ::1 /index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `jz_bill` [ RunTime:0.0080s ]
+SQL: SELECT * FROM `jz_bill` ORDER BY id desc LIMIT 5   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `jz_category` [ RunTime:0.0050s ]
+SQL: SELECT `name` FROM `jz_category` WHERE `id` = 3 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `name` FROM `jz_category` WHERE `id` = 3 LIMIT 1   [ RunTime:0.0000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.033001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.033001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-07-10T22:29:11+08:00 ] ::1 /index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `jz_bill` [ RunTime:0.0080s ]
+SQL: SELECT * FROM `jz_bill` ORDER BY id desc LIMIT 5   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `jz_category` [ RunTime:0.0090s ]
+SQL: SELECT `name` FROM `jz_category` WHERE `id` = 3 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `name` FROM `jz_category` WHERE `id` = 3 LIMIT 1   [ RunTime:0.0010s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.023002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.023002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-07-10T22:29:11+08:00 ] ::1 /index.php/Home/Index/images/me-feedback.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-07-10T22:29:11+08:00 ] ::1 /index.php/Home/Index/images/me-book.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-07-10T22:29:13+08:00 ] ::1 /index.php/Home/Index/income.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `jz_bill` [ RunTime:0.0080s ]
+SQL: SELECT * FROM `jz_bill` WHERE `mold` = 0 ORDER BY id desc  [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.016001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-07-10T22:29:15+08:00 ] ::1 /index.php/Home/Index/expend.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `jz_bill` [ RunTime:0.0080s ]
+SQL: SELECT * FROM `jz_bill` WHERE `mold` = 1 ORDER BY id desc  [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `jz_category` [ RunTime:0.0080s ]
+SQL: SELECT `name` FROM `jz_category` WHERE `id` = 3 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `name` FROM `jz_category` WHERE `id` = 3 LIMIT 1   [ RunTime:0.0010s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.025001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.025001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-07-10T22:29:18+08:00 ] ::1 /index.php/Home/Index/category.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `jz_category` [ RunTime:0.0400s ]
+SQL: SELECT * FROM `jz_category`  [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.017001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-07-10T22:29:26+08:00 ] ::1 /index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `jz_bill` [ RunTime:0.0080s ]
+SQL: SELECT * FROM `jz_bill` ORDER BY id desc LIMIT 5   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `jz_category` [ RunTime:0.0040s ]
+SQL: SELECT `name` FROM `jz_category` WHERE `id` = 3 LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `name` FROM `jz_category` WHERE `id` = 3 LIMIT 1   [ RunTime:0.0000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.021001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.021001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-07-10T22:29:26+08:00 ] ::1 /index.php/Home/Index/images/me-book.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-07-10T22:29:26+08:00 ] ::1 /index.php/Home/Index/images/me-feedback.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-07-10T22:29:51+08:00 ] ::1 /index.php/Home/Index/income.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+SQL: SHOW COLUMNS FROM `jz_bill` [ RunTime:0.0070s ]
+SQL: SELECT * FROM `jz_bill` WHERE `mold` = 0 ORDER BY id desc  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.014001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-07-10T22:29:57+08:00 ] ::1 /index.php/Home/Index/expend.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `jz_bill` [ RunTime:0.0080s ]
+SQL: SELECT * FROM `jz_bill` WHERE `mold` = 1 ORDER BY id desc  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `jz_category` [ RunTime:0.0050s ]
+SQL: SELECT `name` FROM `jz_category` WHERE `id` = 3 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `name` FROM `jz_category` WHERE `id` = 3 LIMIT 1   [ RunTime:0.0000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.020002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.021002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-07-10T22:31:19+08:00 ] ::1 /index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `jz_bill` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `jz_bill` ORDER BY id desc LIMIT 5   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `jz_category` [ RunTime:0.0040s ]
+SQL: SELECT `name` FROM `jz_category` WHERE `id` = 3 LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `name` FROM `jz_category` WHERE `id` = 3 LIMIT 1   [ RunTime:0.0000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.014001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-07-10T22:31:19+08:00 ] ::1 /index.php/Home/Index/images/me-book.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-07-10T22:31:19+08:00 ] ::1 /index.php/Home/Index/images/me-feedback.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-07-10T22:33:57+08:00 ] ::1 /index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `jz_bill` [ RunTime:0.0070s ]
+SQL: SELECT * FROM `jz_bill` ORDER BY id desc LIMIT 5   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `jz_category` [ RunTime:0.0050s ]
+SQL: SELECT `name` FROM `jz_category` WHERE `id` = 3 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `name` FROM `jz_category` WHERE `id` = 3 LIMIT 1   [ RunTime:0.0010s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.021001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.021001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-07-10T22:33:57+08:00 ] ::1 /index.php/Home/Index/images/me-book.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-07-10T22:33:58+08:00 ] ::1 /index.php/Home/Index/addincome.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-07-10T22:33:58+08:00 ] ::1 /index.php/Home/Index/images/me-feedback.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-07-10T22:34:00+08:00 ] ::1 /index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+SQL: SHOW COLUMNS FROM `jz_bill` [ RunTime:0.0080s ]
+SQL: SELECT * FROM `jz_bill` ORDER BY id desc LIMIT 5   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `jz_category` [ RunTime:0.0080s ]
+SQL: SELECT `name` FROM `jz_category` WHERE `id` = 3 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `name` FROM `jz_category` WHERE `id` = 3 LIMIT 1   [ RunTime:0.0000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.026002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.027002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-07-10T22:34:00+08:00 ] ::1 /index.php/Home/Index/images/me-feedback.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-07-10T22:34:01+08:00 ] ::1 /index.php/Home/Index/images/me-book.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-07-10T22:34:02+08:00 ] ::1 /index.php/Home/Index/addexpend.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `jz_category` [ RunTime:0.0070s ]
+SQL: SELECT * FROM `jz_category`  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-07-10T22:34:04+08:00 ] ::1 /index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `jz_bill` [ RunTime:0.0070s ]
+SQL: SELECT * FROM `jz_bill` ORDER BY id desc LIMIT 5   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `jz_category` [ RunTime:0.0100s ]
+SQL: SELECT `name` FROM `jz_category` WHERE `id` = 3 LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `name` FROM `jz_category` WHERE `id` = 3 LIMIT 1   [ RunTime:0.0000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.029001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.029001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-07-10T22:34:04+08:00 ] ::1 /index.php/Home/Index/images/me-book.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-07-10T22:34:04+08:00 ] ::1 /index.php/Home/Index/images/me-feedback.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+
+[ 2016-07-10T22:46:49+08:00 ] ::1 /index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `jz_bill` [ RunTime:0.0080s ]
+SQL: SELECT * FROM `jz_bill` ORDER BY id desc LIMIT 5   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `jz_category` [ RunTime:0.0050s ]
+SQL: SELECT `name` FROM `jz_category` WHERE `id` = 3 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `name` FROM `jz_category` WHERE `id` = 3 LIMIT 1   [ RunTime:0.0000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.031002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.031002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-07-10T22:46:49+08:00 ] ::1 /index.php/Home/Index/images/me-feedback.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-07-10T22:46:50+08:00 ] ::1 /index.php/Home/Index/images/me-book.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-07-10T22:47:18+08:00 ] ::1 /index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `jz_bill` [ RunTime:0.0090s ]
+SQL: SELECT * FROM `jz_bill` ORDER BY id desc LIMIT 5   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `jz_category` [ RunTime:0.0040s ]
+SQL: SELECT `name` FROM `jz_category` WHERE `id` = 3 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `name` FROM `jz_category` WHERE `id` = 3 LIMIT 1   [ RunTime:0.0000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.019001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.019001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001001s ]
+
+[ 2016-07-10T22:47:19+08:00 ] ::1 /index.php/Home/Index/images/me-feedback.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-07-10T22:47:20+08:00 ] ::1 /index.php/Home/Index/images/me-book.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-07-10T22:47:37+08:00 ] ::1 /index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `jz_bill` [ RunTime:0.0080s ]
+SQL: SELECT * FROM `jz_bill` ORDER BY id desc LIMIT 5   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `jz_category` [ RunTime:0.0090s ]
+SQL: SELECT `name` FROM `jz_category` WHERE `id` = 3 LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `name` FROM `jz_category` WHERE `id` = 3 LIMIT 1   [ RunTime:0.0000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.026002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.026002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-07-10T22:47:37+08:00 ] ::1 /index.php/Home/Index/images/me-feedback.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-07-10T22:47:38+08:00 ] ::1 /index.php/Home/Index/images/me-book.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-07-10T22:48:02+08:00 ] ::1 /index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `jz_bill` [ RunTime:0.0080s ]
+SQL: SELECT * FROM `jz_bill` ORDER BY id desc LIMIT 5   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `jz_category` [ RunTime:0.0070s ]
+SQL: SELECT `name` FROM `jz_category` WHERE `id` = 3 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `name` FROM `jz_category` WHERE `id` = 3 LIMIT 1   [ RunTime:0.0010s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.021002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.021002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-07-10T22:48:02+08:00 ] ::1 /index.php/Home/Index/images/me-feedback.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-07-10T22:48:03+08:00 ] ::1 /index.php/Home/Index/images/me-book.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-07-10T22:48:16+08:00 ] ::1 /index.php/Home/Index/income.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `jz_bill` [ RunTime:0.0070s ]
+SQL: SELECT * FROM `jz_bill` WHERE `mold` = 0 ORDER BY id desc  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-07-10T22:48:58+08:00 ] ::1 /index.php/Home/Index/income.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `jz_bill` [ RunTime:0.0070s ]
+SQL: SELECT * FROM `jz_bill` WHERE `mold` = 0 ORDER BY id desc  [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-07-10T22:49:07+08:00 ] ::1 /index.php/Home/Index/expend.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `jz_bill` [ RunTime:0.0080s ]
+SQL: SELECT * FROM `jz_bill` WHERE `mold` = 1 ORDER BY id desc  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `jz_category` [ RunTime:0.0060s ]
+SQL: SELECT `name` FROM `jz_category` WHERE `id` = 3 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `name` FROM `jz_category` WHERE `id` = 3 LIMIT 1   [ RunTime:0.0000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.024001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.024001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-07-10T22:49:09+08:00 ] ::1 /index.php/Home/Index/expend.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `jz_bill` [ RunTime:0.0840s ]
+SQL: SELECT * FROM `jz_bill` WHERE `mold` = 1 ORDER BY id desc  [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `jz_category` [ RunTime:0.0070s ]
+SQL: SELECT `name` FROM `jz_category` WHERE `id` = 3 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `name` FROM `jz_category` WHERE `id` = 3 LIMIT 1   [ RunTime:0.0000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.025002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.025002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-07-10T22:49:31+08:00 ] ::1 /index.php/Home/Index/expend.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `jz_bill` [ RunTime:0.0080s ]
+SQL: SELECT * FROM `jz_bill` WHERE `mold` = 1 ORDER BY id desc  [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `jz_category` [ RunTime:0.0070s ]
+SQL: SELECT `name` FROM `jz_category` WHERE `id` = 3 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `name` FROM `jz_category` WHERE `id` = 3 LIMIT 1   [ RunTime:0.0010s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.024001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.024001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-07-10T22:49:35+08:00 ] ::1 /index.php/Home/Index/income.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `jz_bill` [ RunTime:0.0090s ]
+SQL: SELECT * FROM `jz_bill` WHERE `mold` = 0 ORDER BY id desc  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.014001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-07-10T22:49:36+08:00 ] ::1 /index.php/Home/Index/expend.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `jz_bill` [ RunTime:0.0070s ]
+SQL: SELECT * FROM `jz_bill` WHERE `mold` = 1 ORDER BY id desc  [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `jz_category` [ RunTime:0.0080s ]
+SQL: SELECT `name` FROM `jz_category` WHERE `id` = 3 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `name` FROM `jz_category` WHERE `id` = 3 LIMIT 1   [ RunTime:0.0010s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.025001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.025001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-07-10T22:50:56+08:00 ] ::1 /index.php/Home/Index/income.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `jz_bill` [ RunTime:0.0080s ]
+SQL: SELECT * FROM `jz_bill` WHERE `mold` = 0 ORDER BY id desc  [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-07-10T22:53:23+08:00 ] ::1 /index.php/Home/Index/income.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `jz_bill` [ RunTime:0.0080s ]
+SQL: SELECT SUM(price) AS tp_sum FROM `jz_bill` WHERE `mold` = 0 ORDER BY id desc LIMIT 1   [ RunTime:0.0870s ]
+SQL: SELECT * FROM `jz_bill` WHERE `mold` = 0 ORDER BY id desc  [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.036002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.036002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-07-10T22:54:14+08:00 ] ::1 /index.php/Home/Index/income.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `jz_bill` [ RunTime:0.0080s ]
+SQL: SELECT SUM(price) AS tp_sum FROM `jz_bill` WHERE `mold` = 0 ORDER BY id desc LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `jz_bill` WHERE `mold` = 0 ORDER BY id desc  [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-07-10T22:54:43+08:00 ] ::1 /index.php/Home/Index/income.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `jz_bill` [ RunTime:0.0080s ]
+SQL: SELECT SUM(price) AS tp_sum FROM `jz_bill` WHERE `mold` = 0 ORDER BY id desc LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `jz_bill` WHERE `mold` = 0 ORDER BY id desc  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-07-10T22:54:48+08:00 ] ::1 /index.php/Home/Index/expend.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `jz_bill` [ RunTime:0.0070s ]
+SQL: SELECT * FROM `jz_bill` WHERE `mold` = 1 ORDER BY id desc  [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: sum D:\www\jizhang\Application\Runtime\Cache\Home\bc763fcc9918215eea384207c6b4e09d.php 第 59 行.
+SQL: SHOW COLUMNS FROM `jz_category` [ RunTime:0.0080s ]
+SQL: SELECT `name` FROM `jz_category` WHERE `id` = 3 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `name` FROM `jz_category` WHERE `id` = 3 LIMIT 1   [ RunTime:0.0000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.061003s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.061003s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-07-10T22:55:04+08:00 ] ::1 /index.php/Home/Index/expend.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `jz_bill` [ RunTime:0.0080s ]
+SQL: SELECT SUM(price) AS tp_sum FROM `jz_bill` WHERE `mold` = 1 ORDER BY id desc LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `jz_bill` WHERE `mold` = 1 ORDER BY id desc  [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `jz_category` [ RunTime:0.0050s ]
+SQL: SELECT `name` FROM `jz_category` WHERE `id` = 3 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `name` FROM `jz_category` WHERE `id` = 3 LIMIT 1   [ RunTime:0.0010s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.019001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.019001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-07-10T22:56:10+08:00 ] ::1 /index.php/Home/Index/expend.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `jz_bill` [ RunTime:0.0070s ]
+SQL: SELECT SUM(price) AS tp_sum FROM `jz_bill` WHERE `mold` = 1 ORDER BY id desc LIMIT 1   [ RunTime:0.0010s ]
+
+[ 2016-07-10T22:56:59+08:00 ] ::1 /index.php/Home/Index/expend.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `jz_bill` [ RunTime:0.0410s ]
+SQL: SELECT SUM(price) AS tp_sum FROM `jz_bill` WHERE `mold` = 1 ORDER BY id desc LIMIT 1   [ RunTime:0.0010s ]
+
+[ 2016-07-10T22:57:19+08:00 ] ::1 /index.php/Home/Index/expend.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `jz_bill` [ RunTime:0.0070s ]
+SQL: SELECT SUM(price) AS tp_sum FROM `jz_bill` WHERE `mold` = 1 ORDER BY id desc LIMIT 1   [ RunTime:0.0010s ]
+
+[ 2016-07-10T22:57:27+08:00 ] ::1 /index.php/Home/Index/expend.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `jz_bill` [ RunTime:0.0080s ]
+SQL: SELECT SUM(price) AS tp_sum FROM `jz_bill` WHERE `mold` = 1 ORDER BY id desc LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `jz_bill` WHERE `mold` = 1 ORDER BY id desc  [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `jz_category` [ RunTime:0.0070s ]
+SQL: SELECT `name` FROM `jz_category` WHERE `id` = 3 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `name` FROM `jz_category` WHERE `id` = 3 LIMIT 1   [ RunTime:0.0000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.026002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.026002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-07-10T22:57:31+08:00 ] ::1 /index.php/Home/Index/income.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `jz_bill` [ RunTime:0.0080s ]
+SQL: SELECT SUM(price) AS tp_sum FROM `jz_bill` WHERE `mold` = 0 ORDER BY id desc LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `jz_bill` WHERE `mold` = 0 ORDER BY id desc  [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001001s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001001s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.016001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-07-10T22:57:33+08:00 ] ::1 /index.php/Home/Index/expend.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `jz_bill` [ RunTime:0.0070s ]
+SQL: SELECT SUM(price) AS tp_sum FROM `jz_bill` WHERE `mold` = 1 ORDER BY id desc LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `jz_bill` WHERE `mold` = 1 ORDER BY id desc  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `jz_category` [ RunTime:0.0040s ]
+SQL: SELECT `name` FROM `jz_category` WHERE `id` = 3 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `name` FROM `jz_category` WHERE `id` = 3 LIMIT 1   [ RunTime:0.0000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.020001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.021001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-07-10T22:59:12+08:00 ] ::1 /index.php/Home/Index/expend.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `jz_bill` [ RunTime:0.0100s ]
+SQL: SELECT SUM(price) AS tp_sum FROM `jz_bill` WHERE `mold` = 1 ORDER BY id desc LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `jz_bill` WHERE `mold` = 1 ORDER BY id desc  [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `jz_category` [ RunTime:0.0090s ]
+SQL: SELECT `name` FROM `jz_category` WHERE `id` = 3 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `name` FROM `jz_category` WHERE `id` = 3 LIMIT 1   [ RunTime:0.0000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.026002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.026002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-07-10T22:59:15+08:00 ] ::1 /index.php/Home/Index/expend.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `jz_bill` [ RunTime:0.0080s ]
+SQL: SELECT SUM(price) AS tp_sum FROM `jz_bill` WHERE `mold` = 1 ORDER BY id desc LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `jz_bill` WHERE `mold` = 1 ORDER BY id desc  [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `jz_category` [ RunTime:0.0040s ]
+SQL: SELECT `name` FROM `jz_category` WHERE `id` = 3 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `name` FROM `jz_category` WHERE `id` = 3 LIMIT 1   [ RunTime:0.0000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.020001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.020001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-07-10T22:59:33+08:00 ] ::1 /index.php/Home/Index/expend.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `jz_bill` [ RunTime:0.0050s ]
+SQL: SELECT SUM(price) AS tp_sum FROM `jz_bill` WHERE `mold` = 1 ORDER BY id desc LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `jz_bill` WHERE `mold` = 1 ORDER BY id desc  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `jz_category` [ RunTime:0.0040s ]
+SQL: SELECT `name` FROM `jz_category` WHERE `id` = 3 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `name` FROM `jz_category` WHERE `id` = 3 LIMIT 1   [ RunTime:0.0010s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.016001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-07-10T22:59:52+08:00 ] ::1 /index.php/Home/Index/expend.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `jz_bill` [ RunTime:0.0080s ]
+SQL: SELECT SUM(price) AS tp_sum FROM `jz_bill` WHERE `mold` = 1 ORDER BY id desc LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `jz_bill` WHERE `mold` = 1 ORDER BY id desc  [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `jz_category` [ RunTime:0.0070s ]
+SQL: SELECT `name` FROM `jz_category` WHERE `id` = 3 LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `name` FROM `jz_category` WHERE `id` = 3 LIMIT 1   [ RunTime:0.0000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.023002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.023002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-07-10T23:01:49+08:00 ] ::1 /index.php/Home/Index/expend.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `jz_bill` [ RunTime:0.0050s ]
+SQL: SELECT SUM(price) AS tp_sum FROM `jz_bill` WHERE `mold` = 1 AND `date` = 2016 ORDER BY id desc LIMIT 1   [ RunTime:0.0680s ]
+SQL: SELECT SUM(price) AS tp_sum FROM `jz_bill` WHERE `mold` = 1 ORDER BY id desc LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `jz_bill` WHERE `mold` = 1 ORDER BY id desc  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: zrtime D:\www\jizhang\Application\Runtime\Cache\Home\bc763fcc9918215eea384207c6b4e09d.php 第 38 行.
+SQL: SHOW COLUMNS FROM `jz_category` [ RunTime:0.0040s ]
+SQL: SELECT `name` FROM `jz_category` WHERE `id` = 3 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `name` FROM `jz_category` WHERE `id` = 3 LIMIT 1   [ RunTime:0.0010s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.036002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.036002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-07-10T23:02:03+08:00 ] ::1 /index.php/Home/Index/expend.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `jz_bill` [ RunTime:0.0070s ]
+SQL: SELECT SUM(price) AS tp_sum FROM `jz_bill` WHERE `mold` = 1 AND `date` = 2016 ORDER BY id desc LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT SUM(price) AS tp_sum FROM `jz_bill` WHERE `mold` = 1 ORDER BY id desc LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `jz_bill` WHERE `mold` = 1 ORDER BY id desc  [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: zrtime D:\www\jizhang\Application\Runtime\Cache\Home\bc763fcc9918215eea384207c6b4e09d.php 第 38 行.
+SQL: SHOW COLUMNS FROM `jz_category` [ RunTime:0.0050s ]
+SQL: SELECT `name` FROM `jz_category` WHERE `id` = 3 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `name` FROM `jz_category` WHERE `id` = 3 LIMIT 1   [ RunTime:0.0000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.019001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.019001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-07-10T23:02:20+08:00 ] ::1 /index.php/Home/Index/expend.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `jz_bill` [ RunTime:0.0090s ]
+SQL: SELECT SUM(price) AS tp_sum FROM `jz_bill` WHERE `mold` = 1 AND `date` = 2016 ORDER BY id desc LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT SUM(price) AS tp_sum FROM `jz_bill` WHERE `mold` = 1 ORDER BY id desc LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `jz_bill` WHERE `mold` = 1 ORDER BY id desc  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `jz_category` [ RunTime:0.0050s ]
+SQL: SELECT `name` FROM `jz_category` WHERE `id` = 3 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `name` FROM `jz_category` WHERE `id` = 3 LIMIT 1   [ RunTime:0.0000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.023002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.023002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-07-10T23:02:29+08:00 ] ::1 /index.php/Home/Index/expend.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `jz_bill` [ RunTime:0.0080s ]
+SQL: SELECT SUM(price) AS tp_sum FROM `jz_bill` WHERE `mold` = 1 AND `date` = 2016 ORDER BY id desc LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT SUM(price) AS tp_sum FROM `jz_bill` WHERE `mold` = 1 ORDER BY id desc LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `jz_bill` WHERE `mold` = 1 ORDER BY id desc  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `jz_category` [ RunTime:0.0080s ]
+SQL: SELECT `name` FROM `jz_category` WHERE `id` = 3 LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `name` FROM `jz_category` WHERE `id` = 3 LIMIT 1   [ RunTime:0.0000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.026002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.026002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-07-10T23:03:04+08:00 ] ::1 /index.php/Home/Index/expend.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `jz_bill` [ RunTime:0.0080s ]
+SQL: SELECT SUM(price) AS tp_sum FROM `jz_bill` WHERE `mold` = 1 AND `date` = 2016 ORDER BY id desc LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT SUM(price) AS tp_sum FROM `jz_bill` WHERE `mold` = 1 ORDER BY id desc LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `jz_bill` WHERE `mold` = 1 ORDER BY id desc  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `jz_category` [ RunTime:0.0090s ]
+SQL: SELECT `name` FROM `jz_category` WHERE `id` = 3 LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `name` FROM `jz_category` WHERE `id` = 3 LIMIT 1   [ RunTime:0.0000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.025001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.026001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001001s ]
+
+[ 2016-07-10T23:03:18+08:00 ] ::1 /index.php/Home/Index/expend.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `jz_bill` [ RunTime:0.0070s ]
+SQL: SELECT SUM(price) AS tp_sum FROM `jz_bill` WHERE `mold` = 1 AND `date` = 2016 ORDER BY id desc LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT SUM(price) AS tp_sum FROM `jz_bill` WHERE `mold` = 1 ORDER BY id desc LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `jz_bill` WHERE `mold` = 1 ORDER BY id desc  [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `jz_category` [ RunTime:0.0040s ]
+SQL: SELECT `name` FROM `jz_category` WHERE `id` = 3 LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `name` FROM `jz_category` WHERE `id` = 3 LIMIT 1   [ RunTime:0.0000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.021001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.021001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-07-10T23:03:47+08:00 ] ::1 /index.php/Home/Index/expend.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `jz_bill` [ RunTime:0.0160s ]
+SQL: SELECT SUM(price) AS tp_sum FROM `jz_bill` WHERE `mold` = 1 AND `date` = 2016 LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT SUM(price) AS tp_sum FROM `jz_bill` WHERE `mold` = 1 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `jz_bill` WHERE `mold` = 1 ORDER BY id desc  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `jz_category` [ RunTime:0.0040s ]
+SQL: SELECT `name` FROM `jz_category` WHERE `id` = 3 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `name` FROM `jz_category` WHERE `id` = 3 LIMIT 1   [ RunTime:0.0010s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.016001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-07-10T23:04:04+08:00 ] ::1 /index.php/Home/Index/expend.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `jz_bill` [ RunTime:0.0040s ]
+SQL: SELECT SUM(price) AS tp_sum FROM `jz_bill` WHERE `mold` = 1 AND `date` = 2016 LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT SUM(price) AS tp_sum FROM `jz_bill` WHERE `mold` = 1 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `jz_bill` WHERE `mold` = 1 ORDER BY id desc  [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `jz_category` [ RunTime:0.0050s ]
+SQL: SELECT `name` FROM `jz_category` WHERE `id` = 3 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `name` FROM `jz_category` WHERE `id` = 3 LIMIT 1   [ RunTime:0.0000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.014000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-07-10T23:04:53+08:00 ] ::1 /index.php/Home/Index/expend.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `jz_bill` [ RunTime:0.0070s ]
+SQL: SELECT SUM(price) AS tp_sum FROM `jz_bill` WHERE `mold` = 1 AND `date` = 1468076692 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT SUM(price) AS tp_sum FROM `jz_bill` WHERE `mold` = 1 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `jz_bill` WHERE `mold` = 1 ORDER BY id desc  [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `jz_category` [ RunTime:0.0090s ]
+SQL: SELECT `name` FROM `jz_category` WHERE `id` = 3 LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `name` FROM `jz_category` WHERE `id` = 3 LIMIT 1   [ RunTime:0.0000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.025002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.025002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-07-10T23:05:14+08:00 ] ::1 /index.php/Home/Index/expend.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `jz_bill` [ RunTime:0.0070s ]
+SQL: SELECT SUM(price) AS tp_sum FROM `jz_bill` WHERE `mold` = 1 AND `date` = 1468076713 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT SUM(price) AS tp_sum FROM `jz_bill` WHERE `mold` = 1 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `jz_bill` WHERE `mold` = 1 ORDER BY id desc  [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `jz_category` [ RunTime:0.0040s ]
+SQL: SELECT `name` FROM `jz_category` WHERE `id` = 3 LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `name` FROM `jz_category` WHERE `id` = 3 LIMIT 1   [ RunTime:0.0000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.016001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-07-10T23:06:42+08:00 ] ::1 /index.php/Home/Index/expend.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `jz_bill` [ RunTime:0.0080s ]
+SQL: SELECT SUM(price) AS tp_sum FROM `jz_bill` WHERE `mold` = 1 AND `date` = 1467993600 LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT SUM(price) AS tp_sum FROM `jz_bill` WHERE `mold` = 1 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `jz_bill` WHERE `mold` = 1 ORDER BY id desc  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `jz_category` [ RunTime:0.0080s ]
+SQL: SELECT `name` FROM `jz_category` WHERE `id` = 3 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `name` FROM `jz_category` WHERE `id` = 3 LIMIT 1   [ RunTime:0.0000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.028001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.028001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-07-10T23:18:56+08:00 ] ::1 /index.php/Home/Index/expend.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `jz_bill` [ RunTime:0.0080s ]
+SQL: SELECT SUM(price) AS tp_sum FROM `jz_bill` WHERE `mold` = 1 AND `date` = 1467993600 LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT SUM(price) AS tp_sum FROM `jz_bill` WHERE `mold` = 1 LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `jz_bill` WHERE `mold` = 1 ORDER BY id desc  [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `jz_category` [ RunTime:0.0040s ]
+SQL: SELECT `name` FROM `jz_category` WHERE `id` = 3 LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `name` FROM `jz_category` WHERE `id` = 3 LIMIT 1   [ RunTime:0.0000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.036002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.036002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-07-10T23:19:09+08:00 ] ::1 /index.php/Home/Index/expend.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `jz_bill` [ RunTime:0.0070s ]
+SQL: SELECT SUM(price) AS tp_sum FROM `jz_bill` WHERE `mold` = 1 AND `date` = 1467993600 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT SUM(price) AS tp_sum FROM `jz_bill` WHERE `mold` = 1 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `jz_bill` WHERE `mold` = 1 ORDER BY id desc  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `jz_category` [ RunTime:0.0060s ]
+SQL: SELECT `name` FROM `jz_category` WHERE `id` = 3 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `name` FROM `jz_category` WHERE `id` = 3 LIMIT 1   [ RunTime:0.0000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.024002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.024002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-07-10T23:19:25+08:00 ] ::1 /index.php/Home/Index/expend.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `jz_bill` [ RunTime:0.0080s ]
+SQL: SELECT SUM(price) AS tp_sum FROM `jz_bill` WHERE `mold` = 1 AND `date` = 1467993600 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT SUM(price) AS tp_sum FROM `jz_bill` WHERE `mold` = 1 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `jz_bill` WHERE `mold` = 1 ORDER BY id desc  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `jz_category` [ RunTime:0.0040s ]
+SQL: SELECT `name` FROM `jz_category` WHERE `id` = 3 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `name` FROM `jz_category` WHERE `id` = 3 LIMIT 1   [ RunTime:0.0000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.020001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.020001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-07-10T23:23:44+08:00 ] ::1 /index.php/Home/Index/expend.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `jz_bill` [ RunTime:0.0070s ]
+SQL: SELECT SUM(price) AS tp_sum FROM `jz_bill` WHERE `mold` = 1 AND `date` = 1467993600 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT SUM(price) AS tp_sum FROM `jz_bill` WHERE `mold` = 1 AND `date` > '2016-07-09' LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT SUM(price) AS tp_sum FROM `jz_bill` WHERE `mold` = 1 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `jz_bill` WHERE `mold` = 1 ORDER BY id desc  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: bysum D:\www\jizhang\Application\Runtime\Cache\Home\bc763fcc9918215eea384207c6b4e09d.php 第 50 行.
+SQL: SHOW COLUMNS FROM `jz_category` [ RunTime:0.0040s ]
+SQL: SELECT `name` FROM `jz_category` WHERE `id` = 3 LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `name` FROM `jz_category` WHERE `id` = 3 LIMIT 1   [ RunTime:0.0000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.021001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.021001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-07-10T23:24:17+08:00 ] ::1 /index.php/Home/Index/expend.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `jz_bill` [ RunTime:0.0070s ]
+SQL: SELECT SUM(price) AS tp_sum FROM `jz_bill` WHERE `mold` = 1 AND `date` = 1467993600 LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT SUM(price) AS tp_sum FROM `jz_bill` WHERE `mold` = 1 AND `date` > '2016-07-09' LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT SUM(price) AS tp_sum FROM `jz_bill` WHERE `mold` = 1 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `jz_bill` WHERE `mold` = 1 ORDER BY id desc  [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: bysum D:\www\jizhang\Application\Runtime\Cache\Home\bc763fcc9918215eea384207c6b4e09d.php 第 50 行.
+SQL: SHOW COLUMNS FROM `jz_category` [ RunTime:0.0080s ]
+SQL: SELECT `name` FROM `jz_category` WHERE `id` = 3 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `name` FROM `jz_category` WHERE `id` = 3 LIMIT 1   [ RunTime:0.0010s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.025002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.025002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-07-10T23:26:25+08:00 ] ::1 /index.php/Home/Index/expend.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `jz_bill` [ RunTime:0.0100s ]
+SQL: SELECT SUM(price) AS tp_sum FROM `jz_bill` WHERE `mold` = 1 AND `date` = 1467993600 LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT SUM(price) AS tp_sum FROM `jz_bill` WHERE `mold` = 1 AND `date` > '2016-07-03' LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT SUM(price) AS tp_sum FROM `jz_bill` WHERE `mold` = 1 AND `date` > '2016-06-10' LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT SUM(price) AS tp_sum FROM `jz_bill` WHERE `mold` = 1 LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `jz_bill` WHERE `mold` = 1 ORDER BY id desc  [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `jz_category` [ RunTime:0.0050s ]
+SQL: SELECT `name` FROM `jz_category` WHERE `id` = 3 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `name` FROM `jz_category` WHERE `id` = 3 LIMIT 1   [ RunTime:0.0000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.041002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.041002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-07-10T23:26:50+08:00 ] ::1 /index.php/Home/Index/expend.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+SQL: SHOW COLUMNS FROM `jz_bill` [ RunTime:0.0080s ]
+SQL: SELECT SUM(price) AS tp_sum FROM `jz_bill` WHERE `mold` = 1 AND `date` = 1467993600 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT SUM(price) AS tp_sum FROM `jz_bill` WHERE `mold` = 1 AND `date` > '2016-07-03' LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT SUM(price) AS tp_sum FROM `jz_bill` WHERE `mold` = 1 AND `date` > '2016-06-10' LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT SUM(price) AS tp_sum FROM `jz_bill` WHERE `mold` = 1 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `jz_bill` WHERE `mold` = 1 ORDER BY id desc  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `jz_category` [ RunTime:0.0040s ]
+SQL: SELECT `name` FROM `jz_category` WHERE `id` = 3 LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `name` FROM `jz_category` WHERE `id` = 3 LIMIT 1   [ RunTime:0.0000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.020001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.020001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-07-10T23:27:06+08:00 ] ::1 /index.php/Home/Index/expend.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `jz_bill` [ RunTime:0.0100s ]
+SQL: SELECT SUM(price) AS tp_sum FROM `jz_bill` WHERE `mold` = 1 AND `date` = 1467993600 LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT SUM(price) AS tp_sum FROM `jz_bill` WHERE `mold` = 1 AND `date` > '2016-07-03' LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT SUM(price) AS tp_sum FROM `jz_bill` WHERE `mold` = 1 AND `date` > '2016-06-10' LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT SUM(price) AS tp_sum FROM `jz_bill` WHERE `mold` = 1 LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `jz_bill` WHERE `mold` = 1 ORDER BY id desc  [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `jz_category` [ RunTime:0.0040s ]
+SQL: SELECT `name` FROM `jz_category` WHERE `id` = 3 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `name` FROM `jz_category` WHERE `id` = 3 LIMIT 1   [ RunTime:0.0010s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.021001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.021001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-07-10T23:27:37+08:00 ] ::1 /index.php/Home/Index/expend.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `jz_bill` [ RunTime:0.0070s ]
+SQL: SELECT SUM(price) AS tp_sum FROM `jz_bill` WHERE `mold` = 1 AND `date` = 1467993600 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT SUM(price) AS tp_sum FROM `jz_bill` WHERE `mold` = 1 AND `date` > '2016-07-03' LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT SUM(price) AS tp_sum FROM `jz_bill` WHERE `mold` = 1 AND `date` > '2016-07-01 00:00:00' LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT SUM(price) AS tp_sum FROM `jz_bill` WHERE `mold` = 1 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `jz_bill` WHERE `mold` = 1 ORDER BY id desc  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `jz_category` [ RunTime:0.0050s ]
+SQL: SELECT `name` FROM `jz_category` WHERE `id` = 3 LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `name` FROM `jz_category` WHERE `id` = 3 LIMIT 1   [ RunTime:0.0000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.022001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.022001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-07-10T23:27:40+08:00 ] ::1 /index.php/Home/Index/expend.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `jz_bill` [ RunTime:0.0070s ]
+SQL: SELECT SUM(price) AS tp_sum FROM `jz_bill` WHERE `mold` = 1 AND `date` = 1467993600 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT SUM(price) AS tp_sum FROM `jz_bill` WHERE `mold` = 1 AND `date` > '2016-07-03' LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT SUM(price) AS tp_sum FROM `jz_bill` WHERE `mold` = 1 AND `date` > '2016-07-01 00:00:00' LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT SUM(price) AS tp_sum FROM `jz_bill` WHERE `mold` = 1 LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `jz_bill` WHERE `mold` = 1 ORDER BY id desc  [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `jz_category` [ RunTime:0.0060s ]
+SQL: SELECT `name` FROM `jz_category` WHERE `id` = 3 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `name` FROM `jz_category` WHERE `id` = 3 LIMIT 1   [ RunTime:0.0000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.023001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.023001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-07-10T23:28:25+08:00 ] ::1 /index.php/Home/Index/expend.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `jz_bill` [ RunTime:0.0070s ]
+SQL: SELECT SUM(price) AS tp_sum FROM `jz_bill` WHERE `mold` = 1 AND `date` = 1467993600 LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT SUM(price) AS tp_sum FROM `jz_bill` WHERE `mold` = 1 AND `date` > 1467475200 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT SUM(price) AS tp_sum FROM `jz_bill` WHERE `mold` = 1 AND `date` > 1467302400 LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT SUM(price) AS tp_sum FROM `jz_bill` WHERE `mold` = 1 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `jz_bill` WHERE `mold` = 1 ORDER BY id desc  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `jz_category` [ RunTime:0.0080s ]
+SQL: SELECT `name` FROM `jz_category` WHERE `id` = 3 LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `name` FROM `jz_category` WHERE `id` = 3 LIMIT 1   [ RunTime:0.0010s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.027001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.027001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+

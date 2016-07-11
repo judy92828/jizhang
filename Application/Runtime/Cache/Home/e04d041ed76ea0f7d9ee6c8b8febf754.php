@@ -51,26 +51,26 @@
         <div class="header"> </div>
         <div class="content">
             
-                <div class="section-bg"> <a class="user-wrap" href="index.html"> <img /> </a>
+                <div class="section-bg"> <a class="user-wrap" href="/"> <img src="/Public/index/images/logo.png" /> </a>
                 <div class="user-name" id="lblNickname"></div>
                 <div class="section-numbers">
                     <ul>
                         <li id="linkMessage">
-                            <a href="/app/message">
+                            <a href="javascript:;">
                                 <p>昨日支出</p>
-                                <p>400元</p>
+                                <p><?php if($zrsum != null): echo ($zrsum); else: ?>0<?php endif; ?>元</p>
                             </a>
                         </li>
                         <li id="linkMessage">
-                            <a href="/app/message">
+                            <a href="javascript:;">
                                 <p>本周支出</p>
-                                <p>239元</p>
+                                <p><?php if($bzsum != null): echo ($bzsum); else: ?>0<?php endif; ?>元</p>
                             </a>
                         </li>
                         <li id="linkMessage">
-                            <a href="/app/message">
+                            <a href="javascript:;">
                                 <p>本月支出</p>
-                                <p>9878元</p>
+                                <p><?php if($bysum != null): echo ($bysum); else: ?>0<?php endif; ?>元</p>
                             </a>
                         </li>
                     </ul>
@@ -83,13 +83,14 @@
     </div>
 
             
+    <form action="<?php echo U('Index/seach');?>" method="post" id="frm">
     <div class="weui_cells_radio">
         <label class="weui_cell weui_check_label" for="x11">
             <div class="weui_cell_bd weui_cell_primary">
                 <p>收入</p>
             </div>
             <div class="weui_cell_ft">
-                <input type="radio" class="weui_check" name="radio1" id="x11">
+                <input type="radio" class="weui_check" name="mold" value="0" id="x11">
                 <span class="weui_icon_checked"></span> </div>
         </label>
         <label class="weui_cell weui_check_label" for="x12">
@@ -97,7 +98,7 @@
                 <p>支出</p>
             </div>
             <div class="weui_cell_ft">
-                <input type="radio" name="radio1" class="weui_check" id="x12">
+                <input type="radio" name="mold" class="weui_check" value="1" id="x12">
                 <span class="weui_icon_checked"></span> </div>
         </label>
     </div>
@@ -107,8 +108,7 @@
         </div>
         <div class="weui_cell_bd weui_cell_primary">
             <select class="weui_select" name="category">
-                <option value="2">QQ号</option>
-                <option value="3">Email</option>
+                <?php if(is_array($category)): $i = 0; $__LIST__ = $category;if( count($__LIST__)==0 ) : echo "" ;else: foreach($__LIST__ as $key=>$vo): $mod = ($i % 2 );++$i;?><option value="<?php echo ($vo["id"]); ?>"><?php echo ($vo["name"]); ?></option><?php endforeach; endif; else: echo "" ;endif; ?>
             </select>
         </div>
     </div>
@@ -117,7 +117,7 @@
             <label class="weui_label" style="width:7em;">开始时间</label>
         </div>
         <div class="weui_cell_bd weui_cell_primary">
-            <input  id="beginTime" class="kbtn weui_input" />
+            <input  id="beginTime" name="beginTime" class="kbtn weui_input" />
         </div>
     </div>
     <div class="weui_cell">
@@ -125,12 +125,20 @@
             <label class="weui_label" style="width:7em;">结束时间</label>
         </div>
         <div class="weui_cell_bd weui_cell_primary">
-            <input id="endTime" class="kbtn weui_input" />
+            <input id="endTime" name="endTime" class="kbtn weui_input" />
         </div>
     </div>
     <div class="weui_btn_area"> <a class="weui_btn weui_btn_primary" href="javascript:" id="showTooltips">立即查询</a> </div>
     <div id="datePlugin"></div>
     <br/>
+    </form>
+    <script type="text/javascript">
+        $(function(){
+            $('#showTooltips').click(function(){
+                $('#frm').submit();
+            })
+        })
+    </script>
 
         </div>
         

@@ -1,1 +1,26 @@
 <extend name="common" />
+<block name="nav">
+    <div class="row no-gutter">
+        <div class="col-50 ui-border navpre" style="background-image:url(/Public/index/images/me-feedback.png);"><a href="{:U('Index/addincome')}">收入记账</a></div>
+        <div class="col-50 ui-border navpre" style="background-image:url(/Public/index/images/me-book.png);"><a href="{:U('Index/addexpend')}">支出记账</a></div>
+    </div>
+</block>
+<block name="body">
+    <div class="weui_panel_bd">
+        <volist name="bill" id="vo">
+            <a href="javascript:void(0);" class="weui_media_box weui_media_appmsg">
+            <div class="weui_media_hd"> <img class="weui_media_appmsg_thumb" src="<?php if($vo['mold']==0){ ?>/Public/index/images/x.png<?php }else{ ?>/Public/index/images/k.png<?php } ?>" alt=""> </div>
+            <div class="weui_media_bd">
+                <h4 class="weui_media_title">
+                    <?php if($vo['mold']==0){?>
+                    <?php if($vo['type']==0){echo '微信';}else if($vo['type']==1){echo "支付宝";}else if($vo['type']==2){echo "银行卡";}else if($vo['type']==3){echo "现金";} ?>
+                    <?php }else{ ?>
+                        <?php echo catename($vo['type']); ?>
+                    <?php } ?>
+                    <span class="price">¥<?php if(strpos($vo['price'],'.')){ ?> {$vo.price} <?php }else{ ?> {$vo.price}.00 <?php } ?></span></h4>
+                <p class="weui_media_desc">{$vo.msg}</p>
+            </div>
+        </a>
+        </volist>
+    </div>
+</block>
